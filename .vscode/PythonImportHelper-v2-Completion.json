@@ -1,0 +1,2090 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {
+            "value": "\n```python\nimport cv2\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {
+            "value": "\n```python\nimport numpy\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "multiprocessing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "detail": "multiprocessing",
+        "documentation": {
+            "value": "\n```python\nimport multiprocessing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Pool",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {
+            "value": "\n```python\nimport multiprocessing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Process",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {
+            "value": "\n```python\nimport multiprocessing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Pipe",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {
+            "value": "\n```python\nimport multiprocessing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Lock",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {
+            "value": "\n```python\nimport multiprocessing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Value",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {
+            "value": "\n```python\nimport multiprocessing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Array",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {
+            "value": "\n```python\nimport multiprocessing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Manager",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {
+            "value": "\n```python\nimport multiprocessing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "numpy.random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy.random",
+        "description": "numpy.random",
+        "detail": "numpy.random",
+        "documentation": {
+            "value": "\n```python\nimport numpy.random\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {
+            "value": "\n```python\nimport matplotlib.pyplot\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {
+            "value": "\n```python\nimport re\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {
+            "value": "\n```python\nimport time\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urllib.request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "detail": "urllib.request",
+        "documentation": {
+            "value": "\n```python\nimport urllib.request\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {
+            "value": "\n```python\nimport bs4\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "tensorflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow",
+        "description": "tensorflow",
+        "detail": "tensorflow",
+        "documentation": {
+            "value": "\n```python\nimport tensorflow\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ftplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ftplib",
+        "description": "ftplib",
+        "detail": "ftplib",
+        "documentation": {
+            "value": "\n```python\nimport ftplib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "FTP",
+        "importPath": "ftplib",
+        "description": "ftplib",
+        "isExtraImport": true,
+        "detail": "ftplib",
+        "documentation": {
+            "value": "\n```python\nimport ftplib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {
+            "value": "\n```python\nimport pickle\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "gzip",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "gzip",
+        "description": "gzip",
+        "detail": "gzip",
+        "documentation": {
+            "value": "\n```python\nimport gzip\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Client",
+        "importPath": "multiprocessing.connection",
+        "description": "multiprocessing.connection",
+        "isExtraImport": true,
+        "detail": "multiprocessing.connection",
+        "documentation": {
+            "value": "\n```python\nimport multiprocessing.connection\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Client",
+        "importPath": "multiprocessing.connection",
+        "description": "multiprocessing.connection",
+        "isExtraImport": true,
+        "detail": "multiprocessing.connection",
+        "documentation": {
+            "value": "\n```python\nimport multiprocessing.connection\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Client",
+        "importPath": "multiprocessing.connection",
+        "description": "multiprocessing.connection",
+        "isExtraImport": true,
+        "detail": "multiprocessing.connection",
+        "documentation": {
+            "value": "\n```python\nimport multiprocessing.connection\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "socket,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "socket.",
+        "description": "socket.",
+        "detail": "socket.",
+        "documentation": {
+            "value": "\n```python\nimport socket.\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {
+            "value": "\n```python\nimport sys\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "socket",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "socket",
+        "description": "socket",
+        "detail": "socket",
+        "documentation": {
+            "value": "\n```python\nimport socket\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "itertools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "itertools",
+        "description": "itertools",
+        "detail": "itertools",
+        "documentation": {
+            "value": "\n```python\nimport itertools\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "dicttoxml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dicttoxml",
+        "description": "dicttoxml",
+        "detail": "dicttoxml",
+        "documentation": {
+            "value": "\n```python\nimport dicttoxml\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "xmltodict",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "xmltodict",
+        "description": "xmltodict",
+        "detail": "xmltodict",
+        "documentation": {
+            "value": "\n```python\nimport xmltodict\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {
+            "value": "\n```python\nimport json\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "lxml.etree",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "lxml.etree",
+        "description": "lxml.etree",
+        "detail": "lxml.etree",
+        "documentation": {
+            "value": "\n```python\nimport lxml.etree\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "timeit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "timeit",
+        "description": "timeit",
+        "detail": "timeit",
+        "documentation": {
+            "value": "\n```python\nimport timeit\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {
+            "value": "\n```python\nimport shutil\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "auto_canny",
+        "kind": 2,
+        "importPath": "Demo.DEMO_cv2_MouseDetect",
+        "description": "Demo.DEMO_cv2_MouseDetect",
+        "peekOfCode": "def auto_canny(image, sigma=0.33):\n    \"\"\" automatically adjust the two params of canny edge detection\n    source: Zero-parameter, automatic Canny edge detection with Python and OpenCV 2015-04-06\n    modify: Github YonV1943\n    \"\"\"\n    v = np.median(image)\n    lower = max(0, int((1.0 - sigma) * v))\n    upper = min(255, int((1.0 + sigma) * v))\n    edged = cv2.Canny(image, lower, upper)\n    return edged",
+        "detail": "Demo.DEMO_cv2_MouseDetect",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_cv2_MouseDetect import auto_canny\n```\n\n```python\n\n\n```\n\n```python\ndef auto_canny(image, sigma=0.33):\n    \"\"\" automatically adjust the two params of canny edge detection\n    source: Zero-parameter, automatic Canny edge detection with Python and OpenCV 2015-04-06\n    modify: Github YonV1943\n    \"\"\"\n    v = np.median(image)\n    lower = max(0, int((1.0 - sigma) * v))\n    upper = min(255, int((1.0 + sigma) * v))\n    edged = cv2.Canny(image, lower, upper)\n    return edged\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "show_video_file",
+        "kind": 2,
+        "importPath": "Demo.DEMO_cv2_MouseDetect",
+        "description": "Demo.DEMO_cv2_MouseDetect",
+        "peekOfCode": "def show_video_file(video_path):\n    # cap_path = \"D:\\\\Download\\\\ymaze-pmq\\\\14# 00_00_03.20-00_08_03.20.avi\"\n    cap = cv2.VideoCapture(video_path)\n    while cap.isOpened():\n        is_opened, frame = cap.read()\n        cv2.imshow('frame', frame)\n        cv2.imwrite('test04.png', frame)\n        cv2.waitKey(20)\n    cap.release()\ndef expand_grey_to_rgb(image):",
+        "detail": "Demo.DEMO_cv2_MouseDetect",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_cv2_MouseDetect import show_video_file\n```\n\n```python\n\n\n```\n\n```python\ndef show_video_file(video_path):\n    # cap_path = \"D:\\\\Download\\\\ymaze-pmq\\\\14# 00_00_03.20-00_08_03.20.avi\"\n    cap = cv2.VideoCapture(video_path)\n    while cap.isOpened():\n        is_opened, frame = cap.read()\n        cv2.imshow('frame', frame)\n        cv2.imwrite('test04.png', frame)\n        cv2.waitKey(20)\n    cap.release()\ndef expand_grey_to_rgb(image):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "expand_grey_to_rgb",
+        "kind": 2,
+        "importPath": "Demo.DEMO_cv2_MouseDetect",
+        "description": "Demo.DEMO_cv2_MouseDetect",
+        "peekOfCode": "def expand_grey_to_rgb(image):\n    return np.repeat(image[:, :, np.newaxis], axis=2, repeats=3)\ndef draw_line__polar_coord(image, rho, theta, thickness=0):\n    \"\"\"\n    thickness=0 means don't draw\n    \"\"\"\n    line_len = image.shape[1]\n    a = np.cos(theta)\n    b = np.sin(theta)\n    x0 = a * rho",
+        "detail": "Demo.DEMO_cv2_MouseDetect",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_cv2_MouseDetect import expand_grey_to_rgb\n```\n\n```python\n\n\n```\n\n```python\ndef expand_grey_to_rgb(image):\n    return np.repeat(image[:, :, np.newaxis], axis=2, repeats=3)\ndef draw_line__polar_coord(image, rho, theta, thickness=0):\n    \"\"\"\n    thickness=0 means don't draw\n    \"\"\"\n    line_len = image.shape[1]\n    a = np.cos(theta)\n    b = np.sin(theta)\n    x0 = a * rho\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "draw_line__polar_coord",
+        "kind": 2,
+        "importPath": "Demo.DEMO_cv2_MouseDetect",
+        "description": "Demo.DEMO_cv2_MouseDetect",
+        "peekOfCode": "def draw_line__polar_coord(image, rho, theta, thickness=0):\n    \"\"\"\n    thickness=0 means don't draw\n    \"\"\"\n    line_len = image.shape[1]\n    a = np.cos(theta)\n    b = np.sin(theta)\n    x0 = a * rho\n    y0 = b * rho\n    x1 = int(x0 - line_len * b)",
+        "detail": "Demo.DEMO_cv2_MouseDetect",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_cv2_MouseDetect import draw_line__polar_coord\n```\n\n```python\n\n\n```\n\n```python\ndef draw_line__polar_coord(image, rho, theta, thickness=0):\n    \"\"\"\n    thickness=0 means don't draw\n    \"\"\"\n    line_len = image.shape[1]\n    a = np.cos(theta)\n    b = np.sin(theta)\n    x0 = a * rho\n    y0 = b * rho\n    x1 = int(x0 - line_len * b)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "line_intersection",
+        "kind": 2,
+        "importPath": "Demo.DEMO_cv2_MouseDetect",
+        "description": "Demo.DEMO_cv2_MouseDetect",
+        "peekOfCode": "def line_intersection(line1, line2):\n    \"\"\"print line_intersection((A, B), (C, D))\n    line = ((x1, y1), (x2, y2))\n    How do I compute the intersection point of two lines?\n    source: https://stackoverflow.com/a/20677983/9293137\n    modify: Github YonV1943\n    \"\"\"\n    x_diff = (line1[0][0] - line1[1][0], line2[0][0] - line2[1][0])\n    y_diff = (line1[0][1] - line1[1][1], line2[0][1] - line2[1][1])\n    def det(a, b):",
+        "detail": "Demo.DEMO_cv2_MouseDetect",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_cv2_MouseDetect import line_intersection\n```\n\n```python\n\n\n```\n\n```python\ndef line_intersection(line1, line2):\n    \"\"\"print line_intersection((A, B), (C, D))\n    line = ((x1, y1), (x2, y2))\n    How do I compute the intersection point of two lines?\n    source: https://stackoverflow.com/a/20677983/9293137\n    modify: Github YonV1943\n    \"\"\"\n    x_diff = (line1[0][0] - line1[1][0], line2[0][0] - line2[1][0])\n    y_diff = (line1[0][1] - line1[1][1], line2[0][1] - line2[1][1])\n    def det(a, b):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "hex_str_to_rgb_tuple",
+        "kind": 2,
+        "importPath": "Demo.DEMO_cv2_MouseDetect",
+        "description": "Demo.DEMO_cv2_MouseDetect",
+        "peekOfCode": "def hex_str_to_rgb_tuple(hex_str):\n    hex_str = hex_str.lstrip('#')\n    return tuple(int(hex_str[i:i + 2], 16) for i in (0, 2, 4))\ndef draw_3area(img, the_3lines, mid_point, width, length):\n    # sort lines according theta\n    the_3thetas_sort = the_3lines[:, 1].argsort()\n    the_3lines = the_3lines[the_3thetas_sort]\n    mask1 = np.zeros(img.shape[:2])\n    mask2 = np.zeros(img.shape[:2])\n    mask1_3 = np.zeros((3, *img.shape[:2]), dtype=np.int)",
+        "detail": "Demo.DEMO_cv2_MouseDetect",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_cv2_MouseDetect import hex_str_to_rgb_tuple\n```\n\n```python\n\n\n```\n\n```python\ndef hex_str_to_rgb_tuple(hex_str):\n    hex_str = hex_str.lstrip('#')\n    return tuple(int(hex_str[i:i + 2], 16) for i in (0, 2, 4))\ndef draw_3area(img, the_3lines, mid_point, width, length):\n    # sort lines according theta\n    the_3thetas_sort = the_3lines[:, 1].argsort()\n    the_3lines = the_3lines[the_3thetas_sort]\n    mask1 = np.zeros(img.shape[:2])\n    mask2 = np.zeros(img.shape[:2])\n    mask1_3 = np.zeros((3, *img.shape[:2]), dtype=np.int)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "draw_3area",
+        "kind": 2,
+        "importPath": "Demo.DEMO_cv2_MouseDetect",
+        "description": "Demo.DEMO_cv2_MouseDetect",
+        "peekOfCode": "def draw_3area(img, the_3lines, mid_point, width, length):\n    # sort lines according theta\n    the_3thetas_sort = the_3lines[:, 1].argsort()\n    the_3lines = the_3lines[the_3thetas_sort]\n    mask1 = np.zeros(img.shape[:2])\n    mask2 = np.zeros(img.shape[:2])\n    mask1_3 = np.zeros((3, *img.shape[:2]), dtype=np.int)\n    mask2_3 = np.zeros((3, *img.shape[:2]), dtype=np.int)\n    for i, line in enumerate(the_3lines):\n        theta = line[1]",
+        "detail": "Demo.DEMO_cv2_MouseDetect",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_cv2_MouseDetect import draw_3area\n```\n\n```python\n\n\n```\n\n```python\ndef draw_3area(img, the_3lines, mid_point, width, length):\n    # sort lines according theta\n    the_3thetas_sort = the_3lines[:, 1].argsort()\n    the_3lines = the_3lines[the_3thetas_sort]\n    mask1 = np.zeros(img.shape[:2])\n    mask2 = np.zeros(img.shape[:2])\n    mask1_3 = np.zeros((3, *img.shape[:2]), dtype=np.int)\n    mask2_3 = np.zeros((3, *img.shape[:2]), dtype=np.int)\n    for i, line in enumerate(the_3lines):\n        theta = line[1]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "convert_mask3_to_alpha",
+        "kind": 2,
+        "importPath": "Demo.DEMO_cv2_MouseDetect",
+        "description": "Demo.DEMO_cv2_MouseDetect",
+        "peekOfCode": "def convert_mask3_to_alpha(mask3):\n    mask = mask3.sum(axis=0)\n    mask = np.minimum(mask, 1)\n    mask = mask[:, :, np.newaxis].astype(np.float32)\n    mask[mask == 0] = 0.5\n    return mask\ndef find_3pairs_lines(lines):\n    thetas = np.array([item[1] for item in lines])  # item = (dis_norm, theta, x1, y1, x2, y2)\n    thresh = np.pi / 90  # np.pi / 180\n    find0 = find1 = find2 = None",
+        "detail": "Demo.DEMO_cv2_MouseDetect",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_cv2_MouseDetect import convert_mask3_to_alpha\n```\n\n```python\n\n\n```\n\n```python\ndef convert_mask3_to_alpha(mask3):\n    mask = mask3.sum(axis=0)\n    mask = np.minimum(mask, 1)\n    mask = mask[:, :, np.newaxis].astype(np.float32)\n    mask[mask == 0] = 0.5\n    return mask\ndef find_3pairs_lines(lines):\n    thetas = np.array([item[1] for item in lines])  # item = (dis_norm, theta, x1, y1, x2, y2)\n    thresh = np.pi / 90  # np.pi / 180\n    find0 = find1 = find2 = None\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "find_3pairs_lines",
+        "kind": 2,
+        "importPath": "Demo.DEMO_cv2_MouseDetect",
+        "description": "Demo.DEMO_cv2_MouseDetect",
+        "peekOfCode": "def find_3pairs_lines(lines):\n    thetas = np.array([item[1] for item in lines])  # item = (dis_norm, theta, x1, y1, x2, y2)\n    thresh = np.pi / 90  # np.pi / 180\n    find0 = find1 = find2 = None\n    print(thetas.round(3))\n    print(';')\n    mod_num = np.pi\n    for theta in thetas:\n        diff = thetas - theta\n        find0 = (diff - np.pi / 3 * 0) % mod_num",
+        "detail": "Demo.DEMO_cv2_MouseDetect",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_cv2_MouseDetect import find_3pairs_lines\n```\n\n```python\n\n\n```\n\n```python\ndef find_3pairs_lines(lines):\n    thetas = np.array([item[1] for item in lines])  # item = (dis_norm, theta, x1, y1, x2, y2)\n    thresh = np.pi / 90  # np.pi / 180\n    find0 = find1 = find2 = None\n    print(thetas.round(3))\n    print(';')\n    mod_num = np.pi\n    for theta in thetas:\n        diff = thetas - theta\n        find0 = (diff - np.pi / 3 * 0) % mod_num\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "find_mouse__cnt_pnt",
+        "kind": 2,
+        "importPath": "Demo.DEMO_cv2_MouseDetect",
+        "description": "Demo.DEMO_cv2_MouseDetect",
+        "peekOfCode": "def find_mouse__cnt_pnt(img, mask, ):\n    mask_img = img[:, :, 0] * mask + (1 - mask) * 255\n    mask_img = mask_img.astype(np.uint8)\n    mask_img = cv2.blur(mask_img, (5, 5))\n    thresh = 255 - cv2.threshold(mask_img, 96, 255, cv2.THRESH_BINARY)[1]\n    # thresh = cv2.adaptiveThreshold(mask_img, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 11, 2)\n    # thresh = np.repeat(thresh[:, :, np.newaxis], axis=2, repeats=3)\n    tmp = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)\n    contours, hierarchy = tmp[-2:]\n    # thresh, contours, hierarchy = tmp",
+        "detail": "Demo.DEMO_cv2_MouseDetect",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_cv2_MouseDetect import find_mouse__cnt_pnt\n```\n\n```python\n\n\n```\n\n```python\ndef find_mouse__cnt_pnt(img, mask, ):\n    mask_img = img[:, :, 0] * mask + (1 - mask) * 255\n    mask_img = mask_img.astype(np.uint8)\n    mask_img = cv2.blur(mask_img, (5, 5))\n    thresh = 255 - cv2.threshold(mask_img, 96, 255, cv2.THRESH_BINARY)[1]\n    # thresh = cv2.adaptiveThreshold(mask_img, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 11, 2)\n    # thresh = np.repeat(thresh[:, :, np.newaxis], axis=2, repeats=3)\n    tmp = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)\n    contours, hierarchy = tmp[-2:]\n    # thresh, contours, hierarchy = tmp\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "where_is_the_mouse",
+        "kind": 2,
+        "importPath": "Demo.DEMO_cv2_MouseDetect",
+        "description": "Demo.DEMO_cv2_MouseDetect",
+        "peekOfCode": "def where_is_the_mouse(mask3, pnt):\n    y, x = pnt\n    where_list = [*mask3[:, x, y], 1]\n    # print(where_list)\n    if sum(where_list) > 2:\n        area_id = 3  # 3 means in middle area\n    else:\n        area_id = where_list.index(1)  # {0， 1， 2} means area_id\n    # 4 means not in interesting area.\n    return area_id",
+        "detail": "Demo.DEMO_cv2_MouseDetect",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_cv2_MouseDetect import where_is_the_mouse\n```\n\n```python\n\n\n```\n\n```python\ndef where_is_the_mouse(mask3, pnt):\n    y, x = pnt\n    where_list = [*mask3[:, x, y], 1]\n    # print(where_list)\n    if sum(where_list) > 2:\n        area_id = 3  # 3 means in middle area\n    else:\n        area_id = where_list.index(1)  # {0， 1， 2} means area_id\n    # 4 means not in interesting area.\n    return area_id\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_interest_mask",
+        "kind": 2,
+        "importPath": "Demo.DEMO_cv2_MouseDetect",
+        "description": "Demo.DEMO_cv2_MouseDetect",
+        "peekOfCode": "def get_interest_mask(img='./test01.png'):\n    cv2.namedWindow('', cv2.WINDOW_GUI_NORMAL)\n    wait_time = 234\n    max_line_num = 64\n    if isinstance(img, str):\n        img_path = img\n        img = cv2.imread(img_path)\n    img = cv2.blur(img, (3, 3))\n    img_h, img_w, img_c = img.shape\n    cv2.imshow('', img)",
+        "detail": "Demo.DEMO_cv2_MouseDetect",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_cv2_MouseDetect import get_interest_mask\n```\n\n```python\n\n\n```\n\n```python\ndef get_interest_mask(img='./test01.png'):\n    cv2.namedWindow('', cv2.WINDOW_GUI_NORMAL)\n    wait_time = 234\n    max_line_num = 64\n    if isinstance(img, str):\n        img_path = img\n        img = cv2.imread(img_path)\n    img = cv2.blur(img, (3, 3))\n    img_h, img_w, img_c = img.shape\n    cv2.imshow('', img)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run__pipeline",
+        "kind": 2,
+        "importPath": "Demo.DEMO_cv2_MouseDetect",
+        "description": "Demo.DEMO_cv2_MouseDetect",
+        "peekOfCode": "def run__pipeline(video_path):\n    print(';;;;;', video_path)\n    # video_path = \"D:\\\\Download\\\\ymaze-pmq\\\\14# 00_00_03.20-00_08_03.20.avi\"\n    video_cap = cv2.VideoCapture(video_path)\n    cv2.namedWindow('', cv2.WINDOW_GUI_NORMAL)\n    \"\"\"get the first frame\"\"\"\n    is_opened, frame = video_cap.read()\n    mask, mask3, width = get_interest_mask(img=frame)\n    mask_alpha = convert_mask3_to_alpha(mask3)\n    # show = frame.copy() * mask_alpha",
+        "detail": "Demo.DEMO_cv2_MouseDetect",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_cv2_MouseDetect import run__pipeline\n```\n\n```python\n\n\n```\n\n```python\ndef run__pipeline(video_path):\n    print(';;;;;', video_path)\n    # video_path = \"D:\\\\Download\\\\ymaze-pmq\\\\14# 00_00_03.20-00_08_03.20.avi\"\n    video_cap = cv2.VideoCapture(video_path)\n    cv2.namedWindow('', cv2.WINDOW_GUI_NORMAL)\n    \"\"\"get the first frame\"\"\"\n    is_opened, frame = video_cap.read()\n    mask, mask3, width = get_interest_mask(img=frame)\n    mask_alpha = convert_mask3_to_alpha(mask3)\n    # show = frame.copy() * mask_alpha\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DrawROI",
+        "kind": 6,
+        "importPath": "Demo.DEMO_edge_detection",
+        "description": "Demo.DEMO_edge_detection",
+        "peekOfCode": "class DrawROI(object):  # draw Region of Interest\n    def __init__(self, img):\n        self.img = img\n        self.window_name = self.__class__.__name__\n        self.done = False\n        self.cur_pt = (0, 0)  # Current position, so we can draw the line-in-progress\n        self.roi_pts = []  # List of points defining our polygon\n        self.roi_pts_pwd = \"%s_points.npy\" % self.__class__.__name__\n    def on_mouse(self, event, x, y, _buttons, _user_param):\n        \"\"\"",
+        "detail": "Demo.DEMO_edge_detection",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_edge_detection import DrawROI\n```\n\n```python\n\n\n```\n\n```python\nclass DrawROI(object):  # draw Region of Interest\n    def __init__(self, img):\n        self.img = img\n        self.window_name = self.__class__.__name__\n        self.done = False\n        self.cur_pt = (0, 0)  # Current position, so we can draw the line-in-progress\n        self.roi_pts = []  # List of points defining our polygon\n        self.roi_pts_pwd = \"%s_points.npy\" % self.__class__.__name__\n    def on_mouse(self, event, x, y, _buttons, _user_param):\n        \"\"\"\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "EdgeDetection",
+        "kind": 6,
+        "importPath": "Demo.DEMO_edge_detection",
+        "description": "Demo.DEMO_edge_detection",
+        "peekOfCode": "class EdgeDetection(object):  # FrogEyes\n    def __init__(self, img, roi_pts):\n        self.min_thresh = 56.0\n        self.roi_pts = roi_pts\n        self.roi_mat = cv2.fillPoly(np.zeros(img.shape, dtype=np.uint8), self.roi_pts, (1, 1, 1))\n        img = self.img_preprocessing(img)\n        background_change_after_read_image_number = 64  # change time = 0.04*number = 2.7 = 0.4*64\n        self.img_list = [img for _ in range(background_change_after_read_image_number)]\n        self.high_light_roi_mat = cv2.fillPoly(np.ones(self.roi_mat.shape, dtype=np.float) * 0.25,\n                                               self.roi_pts, (1.0, 1.0, 1.0), )  # highlight the roi",
+        "detail": "Demo.DEMO_edge_detection",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_edge_detection import EdgeDetection\n```\n\n```python\n\n\n```\n\n```python\nclass EdgeDetection(object):  # FrogEyes\n    def __init__(self, img, roi_pts):\n        self.min_thresh = 56.0\n        self.roi_pts = roi_pts\n        self.roi_mat = cv2.fillPoly(np.zeros(img.shape, dtype=np.uint8), self.roi_pts, (1, 1, 1))\n        img = self.img_preprocessing(img)\n        background_change_after_read_image_number = 64  # change time = 0.04*number = 2.7 = 0.4*64\n        self.img_list = [img for _ in range(background_change_after_read_image_number)]\n        self.high_light_roi_mat = cv2.fillPoly(np.ones(self.roi_mat.shape, dtype=np.float) * 0.25,\n                                               self.roi_pts, (1.0, 1.0, 1.0), )  # highlight the roi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "queue_img_put",
+        "kind": 2,
+        "importPath": "Demo.DEMO_edge_detection",
+        "description": "Demo.DEMO_edge_detection",
+        "peekOfCode": "def queue_img_put(q, name, pwd, ip, channel=1):\n    cap = cv2.VideoCapture(\"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (name, pwd, ip, channel))\n    while True:\n        is_opened, frame = cap.read()\n        q.put(frame) if is_opened else None\n        q.get() if q.qsize() > 1 else None\ndef queue_img_get(q, window_name):\n    frame = q.get()\n    region_of_interest_pts = DrawROI(frame).draw_roi()\n    cv2.namedWindow(window_name, flags=cv2.WINDOW_FREERATIO)",
+        "detail": "Demo.DEMO_edge_detection",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_edge_detection import queue_img_put\n```\n\n```python\n\n\n```\n\n```python\ndef queue_img_put(q, name, pwd, ip, channel=1):\n    cap = cv2.VideoCapture(\"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (name, pwd, ip, channel))\n    while True:\n        is_opened, frame = cap.read()\n        q.put(frame) if is_opened else None\n        q.get() if q.qsize() > 1 else None\ndef queue_img_get(q, window_name):\n    frame = q.get()\n    region_of_interest_pts = DrawROI(frame).draw_roi()\n    cv2.namedWindow(window_name, flags=cv2.WINDOW_FREERATIO)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "queue_img_get",
+        "kind": 2,
+        "importPath": "Demo.DEMO_edge_detection",
+        "description": "Demo.DEMO_edge_detection",
+        "peekOfCode": "def queue_img_get(q, window_name):\n    frame = q.get()\n    region_of_interest_pts = DrawROI(frame).draw_roi()\n    cv2.namedWindow(window_name, flags=cv2.WINDOW_FREERATIO)\n    frog_eye = EdgeDetection(frame, region_of_interest_pts)\n    while True:\n        frame = q.get()\n        img_show = frog_eye.main_get_img_show(frame)\n        cv2.imshow(window_name, img_show)\n        cv2.waitKey(1)",
+        "detail": "Demo.DEMO_edge_detection",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_edge_detection import queue_img_get\n```\n\n```python\n\n\n```\n\n```python\ndef queue_img_get(q, window_name):\n    frame = q.get()\n    region_of_interest_pts = DrawROI(frame).draw_roi()\n    cv2.namedWindow(window_name, flags=cv2.WINDOW_FREERATIO)\n    frog_eye = EdgeDetection(frame, region_of_interest_pts)\n    while True:\n        frame = q.get()\n        img_show = frog_eye.main_get_img_show(frame)\n        cv2.imshow(window_name, img_show)\n        cv2.waitKey(1)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "Demo.DEMO_edge_detection",
+        "description": "Demo.DEMO_edge_detection",
+        "peekOfCode": "def run():\n    user_name, user_pwd, camera_ip = \"admin\", \"password\", \"192.168.1.164\"\n    mp.set_start_method(method='spawn')  # multi-processing init\n    queue = mp.Queue(maxsize=2)\n    processes = [mp.Process(target=queue_img_put, args=(queue, user_name, user_pwd, camera_ip)),\n                 mp.Process(target=queue_img_get, args=(queue, camera_ip))]\n    [setattr(process, \"daemon\", True) for process in processes]  # process.daemon = True\n    [process.start() for process in processes]\n    [process.join() for process in processes]\nif __name__ == '__main__':",
+        "detail": "Demo.DEMO_edge_detection",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_edge_detection import run\n```\n\n```python\n\n\n```\n\n```python\ndef run():\n    user_name, user_pwd, camera_ip = \"admin\", \"password\", \"192.168.1.164\"\n    mp.set_start_method(method='spawn')  # multi-processing init\n    queue = mp.Queue(maxsize=2)\n    processes = [mp.Process(target=queue_img_put, args=(queue, user_name, user_pwd, camera_ip)),\n                 mp.Process(target=queue_img_get, args=(queue, camera_ip))]\n    [setattr(process, \"daemon\", True) for process in processes]  # process.daemon = True\n    [process.start() for process in processes]\n    [process.join() for process in processes]\nif __name__ == '__main__':\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "brush__bezier_curve",
+        "kind": 2,
+        "importPath": "Demo.DEMO_generate_random_mask",
+        "description": "Demo.DEMO_generate_random_mask",
+        "peekOfCode": "def brush__bezier_curve(thetas, width1=128):\n    # Source: LearningToPaint - hzwer\n    # Modify: Yonv1943 Github\n    # paras = np.random.rand(128, 10)\n    width2 = width1 * 2\n    thetas[:, 0:4] *= width2\n    thetas[:, 4:6] = thetas[:, 0:2] + (thetas[:, 2:4] - thetas[:, 0:2]) * thetas[:, 4:6]\n    thetas[:, 6:8] = thetas[:, 6:8] * (width2 // 8) + 2  # add 2 to ensure the strokes are not to thin.\n    thetas[:, 8:10] *= 255  # max_uint8 == 255\n    res = np.empty((thetas.shape[0], width1, width1), dtype=np.uint8)",
+        "detail": "Demo.DEMO_generate_random_mask",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_generate_random_mask import brush__bezier_curve\n```\n\n```python\n\n\n```\n\n```python\ndef brush__bezier_curve(thetas, width1=128):\n    # Source: LearningToPaint - hzwer\n    # Modify: Yonv1943 Github\n    # paras = np.random.rand(128, 10)\n    width2 = width1 * 2\n    thetas[:, 0:4] *= width2\n    thetas[:, 4:6] = thetas[:, 0:2] + (thetas[:, 2:4] - thetas[:, 0:2]) * thetas[:, 4:6]\n    thetas[:, 6:8] = thetas[:, 6:8] * (width2 // 8) + 2  # add 2 to ensure the strokes are not to thin.\n    thetas[:, 8:10] *= 255  # max_uint8 == 255\n    res = np.empty((thetas.shape[0], width1, width1), dtype=np.uint8)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "generate_random_mask",
+        "kind": 2,
+        "importPath": "Demo.DEMO_generate_random_mask",
+        "description": "Demo.DEMO_generate_random_mask",
+        "peekOfCode": "def generate_random_mask(thetas, width2=128):\n    # paras = np.random.rand(128, 8)\n    # thetas[:, 0:2]: starting point (x0, y0)\n    # thetas[:, 2:4]: ending point (x2, y2)\n    thetas[:, 0:4] *= width2\n    # thetas[:, 4:6]: middle point, it stay between starting points and ending points\n    thetas[:, 4:6] = thetas[:, 0:2] + (thetas[:, 2:4] - thetas[:, 0:2]) * thetas[:, 4:6]\n    # thetas[:, 6:8]: the thickness of the strokes(mask)\n    # add 2 to ensure the strokes are not to thin.\n    thetas[:, 6:8] = thetas[:, 6:8] * (width2 // 8) + 2",
+        "detail": "Demo.DEMO_generate_random_mask",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_generate_random_mask import generate_random_mask\n```\n\n```python\n\n\n```\n\n```python\ndef generate_random_mask(thetas, width2=128):\n    # paras = np.random.rand(128, 8)\n    # thetas[:, 0:2]: starting point (x0, y0)\n    # thetas[:, 2:4]: ending point (x2, y2)\n    thetas[:, 0:4] *= width2\n    # thetas[:, 4:6]: middle point, it stay between starting points and ending points\n    thetas[:, 4:6] = thetas[:, 0:2] + (thetas[:, 2:4] - thetas[:, 0:2]) * thetas[:, 4:6]\n    # thetas[:, 6:8]: the thickness of the strokes(mask)\n    # add 2 to ensure the strokes are not to thin.\n    thetas[:, 6:8] = thetas[:, 6:8] * (width2 // 8) + 2\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "img_load",
+        "kind": 2,
+        "importPath": "Demo.DEMO_images_load_order_mp_cv2",
+        "description": "Demo.DEMO_images_load_order_mp_cv2",
+        "peekOfCode": "def img_load(queue, queue_idx__img_paths):\n    while True:\n        idx, img_path = queue_idx__img_paths.get()\n        img = cv2.imread(img_path)  # Disk IO\n        queue.put((img, idx, img_path))\n# def img_show_simplify(queue, window_name=''):\n#     cv2.namedWindow(window_name, cv2.WINDOW_KEEPRATIO)\n#\n#     while True:\n#         img, idx, img_path = queue.get()",
+        "detail": "Demo.DEMO_images_load_order_mp_cv2",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_images_load_order_mp_cv2 import img_load\n```\n\n```python\n\n\n```\n\n```python\ndef img_load(queue, queue_idx__img_paths):\n    while True:\n        idx, img_path = queue_idx__img_paths.get()\n        img = cv2.imread(img_path)  # Disk IO\n        queue.put((img, idx, img_path))\n# def img_show_simplify(queue, window_name=''):\n#     cv2.namedWindow(window_name, cv2.WINDOW_KEEPRATIO)\n#\n#     while True:\n#         img, idx, img_path = queue.get()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "img_show",
+        "kind": 2,
+        "importPath": "Demo.DEMO_images_load_order_mp_cv2",
+        "description": "Demo.DEMO_images_load_order_mp_cv2",
+        "peekOfCode": "def img_show(queue, window_name=''):  # check images and keep order\n    cv2.namedWindow(window_name, cv2.WINDOW_KEEPRATIO)\n    import bisect\n    idx_previous = -1\n    idxs = list()\n    queue_gets = list()\n    while True:\n        queue_get = queue.get()\n        idx = queue_get[1]\n        insert = bisect.bisect(idxs, idx)  # keep order",
+        "detail": "Demo.DEMO_images_load_order_mp_cv2",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_images_load_order_mp_cv2 import img_show\n```\n\n```python\n\n\n```\n\n```python\ndef img_show(queue, window_name=''):  # check images and keep order\n    cv2.namedWindow(window_name, cv2.WINDOW_KEEPRATIO)\n    import bisect\n    idx_previous = -1\n    idxs = list()\n    queue_gets = list()\n    while True:\n        queue_get = queue.get()\n        idx = queue_get[1]\n        insert = bisect.bisect(idxs, idx)  # keep order\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "Demo.DEMO_images_load_order_mp_cv2",
+        "description": "Demo.DEMO_images_load_order_mp_cv2",
+        "peekOfCode": "def run():\n    src_path = 'F:/url_get_image/ftp.nnvl.noaa.gov_GER_2018'\n    img_paths = [os.path.join(src_path, f) for f in os.listdir(src_path) if f[-4:] == '.jpg']\n    print(\"|Directory perpare to load:\", src_path)\n    print(\"|Number of images:\", len(img_paths), img_paths[0])\n    mp.set_start_method('spawn')\n    queue_img = mp.Queue(8)\n    queue_idx__img_path = mp.Queue(len(img_paths))\n    [queue_idx__img_path.put(idx__img_path) for idx__img_path in enumerate(img_paths)]\n    processes = list()",
+        "detail": "Demo.DEMO_images_load_order_mp_cv2",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_images_load_order_mp_cv2 import run\n```\n\n```python\n\n\n```\n\n```python\ndef run():\n    src_path = 'F:/url_get_image/ftp.nnvl.noaa.gov_GER_2018'\n    img_paths = [os.path.join(src_path, f) for f in os.listdir(src_path) if f[-4:] == '.jpg']\n    print(\"|Directory perpare to load:\", src_path)\n    print(\"|Number of images:\", len(img_paths), img_paths[0])\n    mp.set_start_method('spawn')\n    queue_img = mp.Queue(8)\n    queue_idx__img_path = mp.Queue(len(img_paths))\n    [queue_idx__img_path.put(idx__img_path) for idx__img_path in enumerate(img_paths)]\n    processes = list()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "queue_img_put",
+        "kind": 2,
+        "importPath": "Demo.DEMO_images_show_mp_cv2",
+        "description": "Demo.DEMO_images_show_mp_cv2",
+        "peekOfCode": "def queue_img_put(queue, img_paths):\n    for i, img_path in enumerate(img_paths):\n        img = cv2.imread(img_path)  # Disk IO\n        queue.put((img, i, img_path))\ndef queue_img_get(queue):\n    window_name = ''\n    cv2.namedWindow(window_name, cv2.WINDOW_KEEPRATIO)\n    while True:\n        img, i, img_path = queue.get()\n        if not isinstance(img, np.ndarray):",
+        "detail": "Demo.DEMO_images_show_mp_cv2",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_images_show_mp_cv2 import queue_img_put\n```\n\n```python\n\n\n```\n\n```python\ndef queue_img_put(queue, img_paths):\n    for i, img_path in enumerate(img_paths):\n        img = cv2.imread(img_path)  # Disk IO\n        queue.put((img, i, img_path))\ndef queue_img_get(queue):\n    window_name = ''\n    cv2.namedWindow(window_name, cv2.WINDOW_KEEPRATIO)\n    while True:\n        img, i, img_path = queue.get()\n        if not isinstance(img, np.ndarray):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "queue_img_get",
+        "kind": 2,
+        "importPath": "Demo.DEMO_images_show_mp_cv2",
+        "description": "Demo.DEMO_images_show_mp_cv2",
+        "peekOfCode": "def queue_img_get(queue):\n    window_name = ''\n    cv2.namedWindow(window_name, cv2.WINDOW_KEEPRATIO)\n    while True:\n        img, i, img_path = queue.get()\n        if not isinstance(img, np.ndarray):\n            os.remove(img_path), print(\"| Remove no image:\", i, img_path)\n        elif not (img[-4:, -4:] - 128).any():  # download incomplete\n            os.remove(img_path), print(\"| Remove incomplete image:\", i, img_path)\n        else:",
+        "detail": "Demo.DEMO_images_show_mp_cv2",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_images_show_mp_cv2 import queue_img_get\n```\n\n```python\n\n\n```\n\n```python\ndef queue_img_get(queue):\n    window_name = ''\n    cv2.namedWindow(window_name, cv2.WINDOW_KEEPRATIO)\n    while True:\n        img, i, img_path = queue.get()\n        if not isinstance(img, np.ndarray):\n            os.remove(img_path), print(\"| Remove no image:\", i, img_path)\n        elif not (img[-4:, -4:] - 128).any():  # download incomplete\n            os.remove(img_path), print(\"| Remove incomplete image:\", i, img_path)\n        else:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "Demo.DEMO_images_show_mp_cv2",
+        "description": "Demo.DEMO_images_show_mp_cv2",
+        "peekOfCode": "def run():\n    src_path = 'F:/url_get_image/ftp.nnvl.noaa.gov'\n    img_paths = [os.path.join(src_path, f) for f in os.listdir(src_path) if f[-4:] == '.jpg'][13215:]\n    print(len(img_paths), img_paths[0])\n    mp.set_start_method('spawn')\n    queue_img = mp.Queue(8)\n    processes = [\n        mp.Process(target=queue_img_put, args=(queue_img, img_paths)),\n        mp.Process(target=queue_img_get, args=(queue_img,)),\n    ]",
+        "detail": "Demo.DEMO_images_show_mp_cv2",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_images_show_mp_cv2 import run\n```\n\n```python\n\n\n```\n\n```python\ndef run():\n    src_path = 'F:/url_get_image/ftp.nnvl.noaa.gov'\n    img_paths = [os.path.join(src_path, f) for f in os.listdir(src_path) if f[-4:] == '.jpg'][13215:]\n    print(len(img_paths), img_paths[0])\n    mp.set_start_method('spawn')\n    queue_img = mp.Queue(8)\n    processes = [\n        mp.Process(target=queue_img_put, args=(queue_img, img_paths)),\n        mp.Process(target=queue_img_get, args=(queue_img,)),\n    ]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "Demo.DEMO_matplotlib",
+        "description": "Demo.DEMO_matplotlib",
+        "peekOfCode": "def run():\n    data = \"\"\"\n    90639\t15659\t229016\t10948\t3502186\t540924\t617798\t56957\t613851\t109118\n    94754\t14401\t243284\t11886\t3339180\t673668\t479573\t45890\t591279\t99243\n    58708\t8737\t178966\t19048\t6346521\t1068038\t893739\t561353\t913392\t212345\n    68646\t12639\t181829\t20301\t6751437\t1228376\t991798\t565571\t1361534\t259998\n    67307\t29807\t195128\t20305\t5373321\t967151\t1548356\t696006\t2070184\t374223\n    77695\t32106\t192996\t23117\t6233739\t1059212\t1445726\t787749\t2315160\t332135\n    72848\t15149\t212149\t16699\t5099217\t669202\t1279871\t302160\t1854453\t250945\n    \"\"\"",
+        "detail": "Demo.DEMO_matplotlib",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_matplotlib import run\n```\n\n```python\n\n\n```\n\n```python\ndef run():\n    data = \"\"\"\n    90639\t15659\t229016\t10948\t3502186\t540924\t617798\t56957\t613851\t109118\n    94754\t14401\t243284\t11886\t3339180\t673668\t479573\t45890\t591279\t99243\n    58708\t8737\t178966\t19048\t6346521\t1068038\t893739\t561353\t913392\t212345\n    68646\t12639\t181829\t20301\t6751437\t1228376\t991798\t565571\t1361534\t259998\n    67307\t29807\t195128\t20305\t5373321\t967151\t1548356\t696006\t2070184\t374223\n    77695\t32106\t192996\t23117\t6233739\t1059212\t1445726\t787749\t2315160\t332135\n    72848\t15149\t212149\t16699\t5099217\t669202\t1279871\t302160\t1854453\t250945\n    \"\"\"\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "plot__multi_error_bars",
+        "kind": 2,
+        "importPath": "Demo.DEMO_matplotlib",
+        "description": "Demo.DEMO_matplotlib",
+        "peekOfCode": "def plot__multi_error_bars(ary_avg, ary_std=None, labels0=None, labels1=None, title='multi_error_bars'):\n    \"\"\"\n    labels0 = ['x-axis0', 'x-axis1', 'x-axis2', 'x-axis3']\n    labels1 = ['legend0', 'legend1', 'legend2', 'legend3']\n    ary_avg = np.random.rand(len(labels0), len(labels1))\n    ary_std = np.random.rand(*ary_avg.shape) * 0.25  # None  #\n    plot__multi_error_bars(ary_avg, ary_std, labels0, labels1)\n    \"\"\"\n    if ary_std is None:\n        ary_std = np.empty_like(ary_avg)",
+        "detail": "Demo.DEMO_matplotlib",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_matplotlib import plot__multi_error_bars\n```\n\n```python\n\n\n```\n\n```python\ndef plot__multi_error_bars(ary_avg, ary_std=None, labels0=None, labels1=None, title='multi_error_bars'):\n    \"\"\"\n    labels0 = ['x-axis0', 'x-axis1', 'x-axis2', 'x-axis3']\n    labels1 = ['legend0', 'legend1', 'legend2', 'legend3']\n    ary_avg = np.random.rand(len(labels0), len(labels1))\n    ary_std = np.random.rand(*ary_avg.shape) * 0.25  # None  #\n    plot__multi_error_bars(ary_avg, ary_std, labels0, labels1)\n    \"\"\"\n    if ary_std is None:\n        ary_std = np.empty_like(ary_avg)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "plot__error_std",
+        "kind": 2,
+        "importPath": "Demo.DEMO_matplotlib",
+        "description": "Demo.DEMO_matplotlib",
+        "peekOfCode": "def plot__error_std(ys, xs=None, k=8):\n    \"\"\"\n    xs = np.linspace(0, 2, 64)\n    ys = np.sin(xs) + rd.normal(0, 0.1, size=xs.shape[0])\n    plot__error_plot(ys, xs, k=8)\n    \"\"\"\n    if xs is None:\n        xs = np.arange(ys.shape[0])\n    ys_pad = np.pad(ys, pad_width=(k, 0), mode='edge')\n    ys_avg = list()",
+        "detail": "Demo.DEMO_matplotlib",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_matplotlib import plot__error_std\n```\n\n```python\n\n\n```\n\n```python\ndef plot__error_std(ys, xs=None, k=8):\n    \"\"\"\n    xs = np.linspace(0, 2, 64)\n    ys = np.sin(xs) + rd.normal(0, 0.1, size=xs.shape[0])\n    plot__error_plot(ys, xs, k=8)\n    \"\"\"\n    if xs is None:\n        xs = np.arange(ys.shape[0])\n    ys_pad = np.pad(ys, pad_width=(k, 0), mode='edge')\n    ys_avg = list()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "plot__error_plot_round",
+        "kind": 2,
+        "importPath": "Demo.DEMO_matplotlib",
+        "description": "Demo.DEMO_matplotlib",
+        "peekOfCode": "def plot__error_plot_round(ys, xs=None, k=8):  # 2020-09-03\n    \"\"\"\n    xs = np.linspace(0, 2, 64)\n    ys = np.sin(xs)\n    ys[rd.randint(64, size=8)] = 0\n    plot__error_plot_round(ys, xs, k=8)\n    \"\"\"\n    if xs is None:\n        xs = np.arange(ys.shape[0])\n    ys_pad = np.pad(ys, pad_width=(k // 2, k // 2), mode='edge')",
+        "detail": "Demo.DEMO_matplotlib",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_matplotlib import plot__error_plot_round\n```\n\n```python\n\n\n```\n\n```python\ndef plot__error_plot_round(ys, xs=None, k=8):  # 2020-09-03\n    \"\"\"\n    xs = np.linspace(0, 2, 64)\n    ys = np.sin(xs)\n    ys[rd.randint(64, size=8)] = 0\n    plot__error_plot_round(ys, xs, k=8)\n    \"\"\"\n    if xs is None:\n        xs = np.arange(ys.shape[0])\n    ys_pad = np.pad(ys, pad_width=(k // 2, k // 2), mode='edge')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run_demo",
+        "kind": 2,
+        "importPath": "Demo.DEMO_matplotlib",
+        "description": "Demo.DEMO_matplotlib",
+        "peekOfCode": "def run_demo():\n    # labels0 = ['x-axis0', 'x-axis1', 'x-axis2', 'x-axis3']\n    # labels1 = ['legend0', 'legend1', 'legend2', 'legend3']\n    # ary_avg = np.random.rand(len(labels0), len(labels1))\n    # ary_std = np.random.rand(*ary_avg.shape) * 0.25  # None  #\n    #\n    # plot__multi_error_bars(ary_avg, ary_std, labels0, labels1)\n    xs = np.linspace(0, 2, 64)\n    ys = np.sin(xs)\n    ys[rd.randint(64, size=8)] = 0",
+        "detail": "Demo.DEMO_matplotlib",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_matplotlib import run_demo\n```\n\n```python\n\n\n```\n\n```python\ndef run_demo():\n    # labels0 = ['x-axis0', 'x-axis1', 'x-axis2', 'x-axis3']\n    # labels1 = ['legend0', 'legend1', 'legend2', 'legend3']\n    # ary_avg = np.random.rand(len(labels0), len(labels1))\n    # ary_std = np.random.rand(*ary_avg.shape) * 0.25  # None  #\n    #\n    # plot__multi_error_bars(ary_avg, ary_std, labels0, labels1)\n    xs = np.linspace(0, 2, 64)\n    ys = np.sin(xs)\n    ys[rd.randint(64, size=8)] = 0\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "url_to_image",
+        "kind": 2,
+        "importPath": "Demo.DEMO_url_get_image_urllib.requests",
+        "description": "Demo.DEMO_url_get_image_urllib.requests",
+        "peekOfCode": "def url_to_image(url):\n    headers = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'}\n    url = urllib.request.Request(url=url, headers=headers)\n    response = urllib.request.urlopen(url)\n    img = np.asarray(bytearray(response.read()), dtype=np.uint8)\n    img = cv2.imdecode(img, cv2.IMREAD_COLOR)\n    return img\ndef url_to_text(url, tag, tag_class):\n    headers = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'}\n    url = urllib.request.Request(url=url, headers=headers)",
+        "detail": "Demo.DEMO_url_get_image_urllib.requests",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_url_get_image_urllib.requests import url_to_image\n```\n\n```python\n\n\n```\n\n```python\ndef url_to_image(url):\n    headers = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'}\n    url = urllib.request.Request(url=url, headers=headers)\n    response = urllib.request.urlopen(url)\n    img = np.asarray(bytearray(response.read()), dtype=np.uint8)\n    img = cv2.imdecode(img, cv2.IMREAD_COLOR)\n    return img\ndef url_to_text(url, tag, tag_class):\n    headers = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'}\n    url = urllib.request.Request(url=url, headers=headers)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "url_to_text",
+        "kind": 2,
+        "importPath": "Demo.DEMO_url_get_image_urllib.requests",
+        "description": "Demo.DEMO_url_get_image_urllib.requests",
+        "peekOfCode": "def url_to_text(url, tag, tag_class):\n    headers = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'}\n    url = urllib.request.Request(url=url, headers=headers)\n    response = urllib.request.urlopen(url)\n    soup = BeautifulSoup(response)\n    text = soup.find_all(tag, tag_class)\n    return text\ndef collect_image_from_url(url, tag, tag_class, patten):\n    url_text = url_to_text(url, tag, tag_class)\n    print(\"| get url_text\")",
+        "detail": "Demo.DEMO_url_get_image_urllib.requests",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_url_get_image_urllib.requests import url_to_text\n```\n\n```python\n\n\n```\n\n```python\ndef url_to_text(url, tag, tag_class):\n    headers = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'}\n    url = urllib.request.Request(url=url, headers=headers)\n    response = urllib.request.urlopen(url)\n    soup = BeautifulSoup(response)\n    text = soup.find_all(tag, tag_class)\n    return text\ndef collect_image_from_url(url, tag, tag_class, patten):\n    url_text = url_to_text(url, tag, tag_class)\n    print(\"| get url_text\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "collect_image_from_url",
+        "kind": 2,
+        "importPath": "Demo.DEMO_url_get_image_urllib.requests",
+        "description": "Demo.DEMO_url_get_image_urllib.requests",
+        "peekOfCode": "def collect_image_from_url(url, tag, tag_class, patten):\n    url_text = url_to_text(url, tag, tag_class)\n    print(\"| get url_text\")\n    # print(\"url_text:\", url_text)\n    image_id_s = []\n    for item in url_text:\n        findall_result = re.findall(patten, str(item))\n        image_id_s.extend(findall_result)\n    print(\"| get image_id_s\")\n    # [print(item) for item in image_id_s]",
+        "detail": "Demo.DEMO_url_get_image_urllib.requests",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_url_get_image_urllib.requests import collect_image_from_url\n```\n\n```python\n\n\n```\n\n```python\ndef collect_image_from_url(url, tag, tag_class, patten):\n    url_text = url_to_text(url, tag, tag_class)\n    print(\"| get url_text\")\n    # print(\"url_text:\", url_text)\n    image_id_s = []\n    for item in url_text:\n        findall_result = re.findall(patten, str(item))\n        image_id_s.extend(findall_result)\n    print(\"| get image_id_s\")\n    # [print(item) for item in image_id_s]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "collect_images_from_urls",
+        "kind": 2,
+        "importPath": "Demo.DEMO_url_get_image_urllib.requests",
+        "description": "Demo.DEMO_url_get_image_urllib.requests",
+        "peekOfCode": "def collect_images_from_urls(url_img_s):\n    img_save_dirt = \"weather.gc.ca.jpg_dir\"\n    os.mkdir(img_save_dirt) if not os.path.exists(img_save_dirt) else None\n    try:\n        for url_img in url_img_s:\n            img_save_name = \"%s_%s.jpg\" % (url_img.split('/')[-1], int(time.time()))\n            img_save_path = os.path.join(img_save_dirt, img_save_name)\n            img = url_to_image(url_img)\n            cv2.imwrite(img_save_path, img), print(img_save_name)\n            # cv2.imshow('', img), cv2.waitKey()",
+        "detail": "Demo.DEMO_url_get_image_urllib.requests",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_url_get_image_urllib.requests import collect_images_from_urls\n```\n\n```python\n\n\n```\n\n```python\ndef collect_images_from_urls(url_img_s):\n    img_save_dirt = \"weather.gc.ca.jpg_dir\"\n    os.mkdir(img_save_dirt) if not os.path.exists(img_save_dirt) else None\n    try:\n        for url_img in url_img_s:\n            img_save_name = \"%s_%s.jpg\" % (url_img.split('/')[-1], int(time.time()))\n            img_save_path = os.path.join(img_save_dirt, img_save_name)\n            img = url_to_image(url_img)\n            cv2.imwrite(img_save_path, img), print(img_save_name)\n            # cv2.imshow('', img), cv2.waitKey()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "Demo.DEMO_url_get_image_urllib.requests",
+        "description": "Demo.DEMO_url_get_image_urllib.requests",
+        "peekOfCode": "def run():\n    # url = \"https://weather.gc.ca/satellite/index_e.html\"\n    # patten = re.compile(r\"src=\\\"(.*.jpg)\\\"\")\n    # tag, tag_class = 'img', None\n    # collect_image_from_url(url, tag, tag_class, patten)\n    url = \"http://www.bom.gov.au/australia/satellite/\"\n    patten = re.compile(r\"url: \\\"(.*\\.jpg)\\\"\")\n    tag, tag_class = 'script', None\n    url_img_s = [\n        \"https://weather.gc.ca/data/satellite/goes_nam_visiblex_100.jpg\",",
+        "detail": "Demo.DEMO_url_get_image_urllib.requests",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.DEMO_url_get_image_urllib.requests import run\n```\n\n```python\n\n\n```\n\n```python\ndef run():\n    # url = \"https://weather.gc.ca/satellite/index_e.html\"\n    # patten = re.compile(r\"src=\\\"(.*.jpg)\\\"\")\n    # tag, tag_class = 'img', None\n    # collect_image_from_url(url, tag, tag_class, patten)\n    url = \"http://www.bom.gov.au/australia/satellite/\"\n    patten = re.compile(r\"url: \\\"(.*\\.jpg)\\\"\")\n    tag, tag_class = 'script', None\n    url_img_s = [\n        \"https://weather.gc.ca/data/satellite/goes_nam_visiblex_100.jpg\",\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "draw_contours",
+        "kind": 2,
+        "importPath": "Demo.TUTO_edge_detection",
+        "description": "Demo.TUTO_edge_detection",
+        "peekOfCode": "def draw_contours(img, cnts):  # conts = contours\n    img = np.copy(img)\n    img = cv2.drawContours(img, cnts, -1, (0, 255, 0), 2)\n    return img\ndef draw_min_rect_circle(img, cnts):  # conts = contours\n    img = np.copy(img)\n    for cnt in cnts:\n        x, y, w, h = cv2.boundingRect(cnt)\n        cv2.rectangle(img, (x, y), (x + w, y + h), (255, 0, 0), 2)  # blue\n        min_rect = cv2.minAreaRect(cnt)  # min_area_rectangle",
+        "detail": "Demo.TUTO_edge_detection",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.TUTO_edge_detection import draw_contours\n```\n\n```python\n\n\n```\n\n```python\ndef draw_contours(img, cnts):  # conts = contours\n    img = np.copy(img)\n    img = cv2.drawContours(img, cnts, -1, (0, 255, 0), 2)\n    return img\ndef draw_min_rect_circle(img, cnts):  # conts = contours\n    img = np.copy(img)\n    for cnt in cnts:\n        x, y, w, h = cv2.boundingRect(cnt)\n        cv2.rectangle(img, (x, y), (x + w, y + h), (255, 0, 0), 2)  # blue\n        min_rect = cv2.minAreaRect(cnt)  # min_area_rectangle\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "draw_min_rect_circle",
+        "kind": 2,
+        "importPath": "Demo.TUTO_edge_detection",
+        "description": "Demo.TUTO_edge_detection",
+        "peekOfCode": "def draw_min_rect_circle(img, cnts):  # conts = contours\n    img = np.copy(img)\n    for cnt in cnts:\n        x, y, w, h = cv2.boundingRect(cnt)\n        cv2.rectangle(img, (x, y), (x + w, y + h), (255, 0, 0), 2)  # blue\n        min_rect = cv2.minAreaRect(cnt)  # min_area_rectangle\n        min_rect = np.int0(cv2.boxPoints(min_rect))\n        cv2.drawContours(img, [min_rect], 0, (0, 255, 0), 2)  # green\n        (x, y), radius = cv2.minEnclosingCircle(cnt)\n        center, radius = (int(x), int(y)), int(radius)  # center and radius of minimum enclosing circle",
+        "detail": "Demo.TUTO_edge_detection",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.TUTO_edge_detection import draw_min_rect_circle\n```\n\n```python\n\n\n```\n\n```python\ndef draw_min_rect_circle(img, cnts):  # conts = contours\n    img = np.copy(img)\n    for cnt in cnts:\n        x, y, w, h = cv2.boundingRect(cnt)\n        cv2.rectangle(img, (x, y), (x + w, y + h), (255, 0, 0), 2)  # blue\n        min_rect = cv2.minAreaRect(cnt)  # min_area_rectangle\n        min_rect = np.int0(cv2.boxPoints(min_rect))\n        cv2.drawContours(img, [min_rect], 0, (0, 255, 0), 2)  # green\n        (x, y), radius = cv2.minEnclosingCircle(cnt)\n        center, radius = (int(x), int(y)), int(radius)  # center and radius of minimum enclosing circle\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "draw_approx_hull_polygon",
+        "kind": 2,
+        "importPath": "Demo.TUTO_edge_detection",
+        "description": "Demo.TUTO_edge_detection",
+        "peekOfCode": "def draw_approx_hull_polygon(img, cnts):\n    # img = np.copy(img)\n    img = np.zeros(img.shape, dtype=np.uint8)\n    cv2.drawContours(img, cnts, -1, (255, 0, 0), 2)  # blue\n    min_side_len = img.shape[0] / 32  # 多边形边长的最小值 the minimum side length of polygon\n    min_poly_len = img.shape[0] / 16  # 多边形周长的最小值 the minimum round length of polygon\n    min_side_num = 3  # 多边形边数的最小值\n    approxs = [cv2.approxPolyDP(cnt, min_side_len, True) for cnt in cnts]  # 以最小边长为限制画出多边形\n    approxs = [approx for approx in approxs if cv2.arcLength(approx, True) > min_poly_len]  # 筛选出周长大于 min_poly_len 的多边形\n    approxs = [approx for approx in approxs if len(approx) > min_side_num]  # 筛选出边长数大于 min_side_num 的多边形",
+        "detail": "Demo.TUTO_edge_detection",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.TUTO_edge_detection import draw_approx_hull_polygon\n```\n\n```python\n\n\n```\n\n```python\ndef draw_approx_hull_polygon(img, cnts):\n    # img = np.copy(img)\n    img = np.zeros(img.shape, dtype=np.uint8)\n    cv2.drawContours(img, cnts, -1, (255, 0, 0), 2)  # blue\n    min_side_len = img.shape[0] / 32  # 多边形边长的最小值 the minimum side length of polygon\n    min_poly_len = img.shape[0] / 16  # 多边形周长的最小值 the minimum round length of polygon\n    min_side_num = 3  # 多边形边数的最小值\n    approxs = [cv2.approxPolyDP(cnt, min_side_len, True) for cnt in cnts]  # 以最小边长为限制画出多边形\n    approxs = [approx for approx in approxs if cv2.arcLength(approx, True) > min_poly_len]  # 筛选出周长大于 min_poly_len 的多边形\n    approxs = [approx for approx in approxs if len(approx) > min_side_num]  # 筛选出边长数大于 min_side_num 的多边形\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "Demo.TUTO_edge_detection",
+        "description": "Demo.TUTO_edge_detection",
+        "peekOfCode": "def run():\n    image = cv2.imread('Demo/test_edge_detection.jpg')  # a black objects on white image is better\n    # gray = cv2.cvtColor(image.copy(), cv2.COLOR_BGR2GRAY)\n    # ret, thresh = cv2.threshold(gray, 127, 255, cv2.THRESH_BINARY)\n    thresh = cv2.Canny(image, 128, 256)\n    thresh, contours, hierarchy = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)\n    # print(hierarchy, \":hierarchy\")\n    \"\"\"\n    [[[-1 -1 -1 -1]]] :hierarchy  # cv2.Canny()\n    [[[ 1 -1 -1 -1]",
+        "detail": "Demo.TUTO_edge_detection",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.TUTO_edge_detection import run\n```\n\n```python\n\n\n```\n\n```python\ndef run():\n    image = cv2.imread('Demo/test_edge_detection.jpg')  # a black objects on white image is better\n    # gray = cv2.cvtColor(image.copy(), cv2.COLOR_BGR2GRAY)\n    # ret, thresh = cv2.threshold(gray, 127, 255, cv2.THRESH_BINARY)\n    thresh = cv2.Canny(image, 128, 256)\n    thresh, contours, hierarchy = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)\n    # print(hierarchy, \":hierarchy\")\n    \"\"\"\n    [[[-1 -1 -1 -1]]] :hierarchy  # cv2.Canny()\n    [[[ 1 -1 -1 -1]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "Demo.TUTO_tensorflow_variable",
+        "description": "Demo.TUTO_tensorflow_variable",
+        "peekOfCode": "def run():\n    os.environ[\"TF_CPP_MIN_LOG_LEVEL\"] = '1'  # low the warning level\n    con_1 = tf.constant(1.0)\n    con_9 = tf.constant(9.0)\n    var_1 = tf.get_variable(name=\"var_1\", shape=[], dtype=tf.float32)  # not assigned, scalar, shape=[],\n    var_9 = tf.Variable(initial_value=9.0, name='name_of_var_9')  # not assigned yet, NOTICE!\n    print(\"\\n\\n%6s |ASSIGN VARIABLE\" % '')\n    node_assign_1 = tf.assign(var_1, con_1)  # variable should be assigned before used\n    node_add_9 = tf.add(var_1, con_9)\n    var_list = [v for v in tf.global_variables() if 'of_var_9' in v.name]  # variable should be assigned before run",
+        "detail": "Demo.TUTO_tensorflow_variable",
+        "documentation": {
+            "value": "\n```python\nfrom Demo.TUTO_tensorflow_variable import run\n```\n\n```python\n\n\n```\n\n```python\ndef run():\n    os.environ[\"TF_CPP_MIN_LOG_LEVEL\"] = '1'  # low the warning level\n    con_1 = tf.constant(1.0)\n    con_9 = tf.constant(9.0)\n    var_1 = tf.get_variable(name=\"var_1\", shape=[], dtype=tf.float32)  # not assigned, scalar, shape=[],\n    var_9 = tf.Variable(initial_value=9.0, name='name_of_var_9')  # not assigned yet, NOTICE!\n    print(\"\\n\\n%6s |ASSIGN VARIABLE\" % '')\n    node_assign_1 = tf.assign(var_1, con_1)  # variable should be assigned before used\n    node_add_9 = tf.add(var_1, con_9)\n    var_list = [v for v in tf.global_variables() if 'of_var_9' in v.name]  # variable should be assigned before run\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "download_file",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.ftp_upload_download",
+        "description": "Demo_camera_and_network.ftp_upload_download",
+        "peekOfCode": "def download_file(filename):\n    localfile = open(filename, 'wb')\n    ftp.retrbinary('RETR ' + filename, localfile.write, 1024)\n    ftp.quit()\n    localfile.close()\ndef upload_file(filename):\n    ftp.storbinary('STOR ' + filename, open(filename, 'rb'))\n    ftp.quit()\n\"\"\"\nrun this command in server first:",
+        "detail": "Demo_camera_and_network.ftp_upload_download",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.ftp_upload_download import download_file\n```\n\n```python\n\n\n```\n\n```python\ndef download_file(filename):\n    localfile = open(filename, 'wb')\n    ftp.retrbinary('RETR ' + filename, localfile.write, 1024)\n    ftp.quit()\n    localfile.close()\ndef upload_file(filename):\n    ftp.storbinary('STOR ' + filename, open(filename, 'rb'))\n    ftp.quit()\n\"\"\"\nrun this command in server first:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "upload_file",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.ftp_upload_download",
+        "description": "Demo_camera_and_network.ftp_upload_download",
+        "peekOfCode": "def upload_file(filename):\n    ftp.storbinary('STOR ' + filename, open(filename, 'rb'))\n    ftp.quit()\n\"\"\"\nrun this command in server first:\nsudo apt install python3-pyftpdlib\nsudo python3 -m pyftpdlib  -i xxx.xxx.x.x -p 2121 -w\n\"\"\"\nftp = ftplib.FTP(host='10.10.1.111')\nprint('Connect')",
+        "detail": "Demo_camera_and_network.ftp_upload_download",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.ftp_upload_download import upload_file\n```\n\n```python\n\n\n```\n\n```python\ndef upload_file(filename):\n    ftp.storbinary('STOR ' + filename, open(filename, 'rb'))\n    ftp.quit()\n\"\"\"\nrun this command in server first:\nsudo apt install python3-pyftpdlib\nsudo python3 -m pyftpdlib  -i xxx.xxx.x.x -p 2121 -w\n\"\"\"\nftp = ftplib.FTP(host='10.10.1.111')\nprint('Connect')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ftp",
+        "kind": 5,
+        "importPath": "Demo_camera_and_network.ftp_upload_download",
+        "description": "Demo_camera_and_network.ftp_upload_download",
+        "peekOfCode": "ftp = ftplib.FTP(host='10.10.1.111')\nprint('Connect')\nftp.login(user='weit', passwd='weit2.71')\nprint('Login')\nftp.cwd('/home/')\nupload_file('test.txt'), print('Upload')\ndownload_file('test.txt'), print('Download')",
+        "detail": "Demo_camera_and_network.ftp_upload_download",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.ftp_upload_download import ftp\n```\n\n```python\n\n\n```\n\n```python\nftp = ftplib.FTP(host='10.10.1.111')\nprint('Connect')\nftp.login(user='weit', passwd='weit2.71')\nprint('Login')\nftp.cwd('/home/')\nupload_file('test.txt'), print('Upload')\ndownload_file('test.txt'), print('Download')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "image_put",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.ip_camera",
+        "description": "Demo_camera_and_network.ip_camera",
+        "peekOfCode": "def image_put(q, user, pwd, ip, channel=1):\n    cap = cv2.VideoCapture(\"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel))\n    if cap.isOpened():\n        print('HIKVISION')\n    else:\n        cap = cv2.VideoCapture(\"rtsp://%s:%s@%s/cam/realmonitor?channel=%d&subtype=0\" % (user, pwd, ip, channel))\n        print('DaHua')\n    while True:\n        q.put(cap.read()[1])\n        q.get() if q.qsize() > 1 else time.sleep(0.01)",
+        "detail": "Demo_camera_and_network.ip_camera",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.ip_camera import image_put\n```\n\n```python\n\n\n```\n\n```python\ndef image_put(q, user, pwd, ip, channel=1):\n    cap = cv2.VideoCapture(\"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel))\n    if cap.isOpened():\n        print('HIKVISION')\n    else:\n        cap = cv2.VideoCapture(\"rtsp://%s:%s@%s/cam/realmonitor?channel=%d&subtype=0\" % (user, pwd, ip, channel))\n        print('DaHua')\n    while True:\n        q.put(cap.read()[1])\n        q.get() if q.qsize() > 1 else time.sleep(0.01)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "image_get",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.ip_camera",
+        "description": "Demo_camera_and_network.ip_camera",
+        "peekOfCode": "def image_get(q, window_name):\n    cv2.namedWindow(window_name, flags=cv2.WINDOW_FREERATIO)\n    while True:\n        frame = q.get()\n        cv2.imshow(window_name, frame)\n        cv2.waitKey(1)\ndef run_opencv_camera():\n    user, pwd, ip, channel = \"admin\", \"admin123456\", \"172.20.114.26\", 1\n    cap_path = 0  # local camera (e.g. the front camera of laptop)\n    # cap_path = 'video.avi'  # the path of video file",
+        "detail": "Demo_camera_and_network.ip_camera",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.ip_camera import image_get\n```\n\n```python\n\n\n```\n\n```python\ndef image_get(q, window_name):\n    cv2.namedWindow(window_name, flags=cv2.WINDOW_FREERATIO)\n    while True:\n        frame = q.get()\n        cv2.imshow(window_name, frame)\n        cv2.waitKey(1)\ndef run_opencv_camera():\n    user, pwd, ip, channel = \"admin\", \"admin123456\", \"172.20.114.26\", 1\n    cap_path = 0  # local camera (e.g. the front camera of laptop)\n    # cap_path = 'video.avi'  # the path of video file\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run_opencv_camera",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.ip_camera",
+        "description": "Demo_camera_and_network.ip_camera",
+        "peekOfCode": "def run_opencv_camera():\n    user, pwd, ip, channel = \"admin\", \"admin123456\", \"172.20.114.26\", 1\n    cap_path = 0  # local camera (e.g. the front camera of laptop)\n    # cap_path = 'video.avi'  # the path of video file\n    # cap_path = \"rtsp://%s:%s@%s/h264/ch%s/main/av_stream\" % (user, pwd, ip, channel)  # HIKIVISION old version 2015\n    # cap_path = \"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel)  # HIKIVISION new version 2017\n    # cap_path = \"rtsp://%s:%s@%s/cam/realmonitor?channel=%d&subtype=0\" % (user, pwd, ip, channel)  # dahua\n    cap = cv2.VideoCapture(cap_path)\n    while cap.isOpened():\n        is_opened, frame = cap.read()",
+        "detail": "Demo_camera_and_network.ip_camera",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.ip_camera import run_opencv_camera\n```\n\n```python\n\n\n```\n\n```python\ndef run_opencv_camera():\n    user, pwd, ip, channel = \"admin\", \"admin123456\", \"172.20.114.26\", 1\n    cap_path = 0  # local camera (e.g. the front camera of laptop)\n    # cap_path = 'video.avi'  # the path of video file\n    # cap_path = \"rtsp://%s:%s@%s/h264/ch%s/main/av_stream\" % (user, pwd, ip, channel)  # HIKIVISION old version 2015\n    # cap_path = \"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel)  # HIKIVISION new version 2017\n    # cap_path = \"rtsp://%s:%s@%s/cam/realmonitor?channel=%d&subtype=0\" % (user, pwd, ip, channel)  # dahua\n    cap = cv2.VideoCapture(cap_path)\n    while cap.isOpened():\n        is_opened, frame = cap.read()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run_single_camera",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.ip_camera",
+        "description": "Demo_camera_and_network.ip_camera",
+        "peekOfCode": "def run_single_camera():\n    # user_name, user_pwd, camera_ip = \"admin\", \"admin123456\", \"172.20.114.196\"\n    user_name, user_pwd, camera_ip = \"admin\", \"admin123456\", \"[fe80::3aaf:29ff:fed3:d260]\"\n    mp.set_start_method(method='spawn')  # init\n    queue = mp.Queue(maxsize=2)\n    processes = [mp.Process(target=image_put, args=(queue, user_name, user_pwd, camera_ip)),\n                 mp.Process(target=image_get, args=(queue, camera_ip))]\n    [process.start() for process in processes]\n    [process.join() for process in processes]\ndef run_multi_camera():",
+        "detail": "Demo_camera_and_network.ip_camera",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.ip_camera import run_single_camera\n```\n\n```python\n\n\n```\n\n```python\ndef run_single_camera():\n    # user_name, user_pwd, camera_ip = \"admin\", \"admin123456\", \"172.20.114.196\"\n    user_name, user_pwd, camera_ip = \"admin\", \"admin123456\", \"[fe80::3aaf:29ff:fed3:d260]\"\n    mp.set_start_method(method='spawn')  # init\n    queue = mp.Queue(maxsize=2)\n    processes = [mp.Process(target=image_put, args=(queue, user_name, user_pwd, camera_ip)),\n                 mp.Process(target=image_get, args=(queue, camera_ip))]\n    [process.start() for process in processes]\n    [process.join() for process in processes]\ndef run_multi_camera():\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run_multi_camera",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.ip_camera",
+        "description": "Demo_camera_and_network.ip_camera",
+        "peekOfCode": "def run_multi_camera():\n    user_name, user_pwd = \"admin\", \"admin123456\"\n    camera_ip_l = [\n        \"172.20.114.196\",  # ipv4\n        \"[fe80::3aaf:29ff:fed3:d260]\",  # ipv6\n    ]\n    mp.set_start_method(method='spawn')  # init\n    queues = [mp.Queue(maxsize=4) for _ in camera_ip_l]\n    processes = []\n    for queue, camera_ip in zip(queues, camera_ip_l):",
+        "detail": "Demo_camera_and_network.ip_camera",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.ip_camera import run_multi_camera\n```\n\n```python\n\n\n```\n\n```python\ndef run_multi_camera():\n    user_name, user_pwd = \"admin\", \"admin123456\"\n    camera_ip_l = [\n        \"172.20.114.196\",  # ipv4\n        \"[fe80::3aaf:29ff:fed3:d260]\",  # ipv6\n    ]\n    mp.set_start_method(method='spawn')  # init\n    queues = [mp.Queue(maxsize=4) for _ in camera_ip_l]\n    processes = []\n    for queue, camera_ip in zip(queues, camera_ip_l):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "image_collect",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.ip_camera",
+        "description": "Demo_camera_and_network.ip_camera",
+        "peekOfCode": "def image_collect(queue_list, camera_ip_l):\n    import numpy as np\n    \"\"\"show in single opencv-imshow window\"\"\"\n    window_name = \"%s_and_so_no\" % camera_ip_l[0]\n    cv2.namedWindow(window_name, flags=cv2.WINDOW_FREERATIO)\n    while True:\n        imgs = [q.get() for q in queue_list]\n        imgs = np.concatenate(imgs, axis=1)\n        cv2.imshow(window_name, imgs)\n        cv2.waitKey(1)",
+        "detail": "Demo_camera_and_network.ip_camera",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.ip_camera import image_collect\n```\n\n```python\n\n\n```\n\n```python\ndef image_collect(queue_list, camera_ip_l):\n    import numpy as np\n    \"\"\"show in single opencv-imshow window\"\"\"\n    window_name = \"%s_and_so_no\" % camera_ip_l[0]\n    cv2.namedWindow(window_name, flags=cv2.WINDOW_FREERATIO)\n    while True:\n        imgs = [q.get() for q in queue_list]\n        imgs = np.concatenate(imgs, axis=1)\n        cv2.imshow(window_name, imgs)\n        cv2.waitKey(1)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run_multi_camera_in_a_window",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.ip_camera",
+        "description": "Demo_camera_and_network.ip_camera",
+        "peekOfCode": "def run_multi_camera_in_a_window():\n    user_name, user_pwd = \"admin\", \"admin123456\"\n    camera_ip_l = [\n        \"172.20.114.196\",  # ipv4\n        \"[fe80::3aaf:29ff:fed3:d260]\",  # ipv6\n    ]\n    mp.set_start_method(method='spawn')  # init\n    queues = [mp.Queue(maxsize=4) for _ in camera_ip_l]\n    processes = [mp.Process(target=image_collect, args=(queues, camera_ip_l))]\n    for queue, camera_ip in zip(queues, camera_ip_l):",
+        "detail": "Demo_camera_and_network.ip_camera",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.ip_camera import run_multi_camera_in_a_window\n```\n\n```python\n\n\n```\n\n```python\ndef run_multi_camera_in_a_window():\n    user_name, user_pwd = \"admin\", \"admin123456\"\n    camera_ip_l = [\n        \"172.20.114.196\",  # ipv4\n        \"[fe80::3aaf:29ff:fed3:d260]\",  # ipv6\n    ]\n    mp.set_start_method(method='spawn')  # init\n    queues = [mp.Queue(maxsize=4) for _ in camera_ip_l]\n    processes = [mp.Process(target=image_collect, args=(queues, camera_ip_l))]\n    for queue, camera_ip in zip(queues, camera_ip_l):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.ip_camera",
+        "description": "Demo_camera_and_network.ip_camera",
+        "peekOfCode": "def run():\n    # run_opencv_camera()  # slow, with only 1 thread\n    run_single_camera()  # quick, with 2 threads\n    # run_multi_camera() # with 1 + n threads\n    # run_multi_camera_in_a_window()  # with 1 + n threads\n    pass\nif __name__ == '__main__':\n    run()",
+        "detail": "Demo_camera_and_network.ip_camera",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.ip_camera import run\n```\n\n```python\n\n\n```\n\n```python\ndef run():\n    # run_opencv_camera()  # slow, with only 1 thread\n    run_single_camera()  # quick, with 2 threads\n    # run_multi_camera() # with 1 + n threads\n    # run_multi_camera_in_a_window()  # with 1 + n threads\n    pass\nif __name__ == '__main__':\n    run()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "rtsp_path_hikvison",
+        "kind": 5,
+        "importPath": "Demo_camera_and_network.ip_camera",
+        "description": "Demo_camera_and_network.ip_camera",
+        "peekOfCode": "rtsp_path_hikvison = \"rtsp://%s:%s@%s/h265/ch%s/main/av_stream\" % (user, pwd, ip, channel)\nrtsp_path_dahua = \"rtsp://%s:%s@%s/cam/realmonitor?channel=%d&subtype=0\" % (user, pwd, ip, channel)\nhttps://blog.csdn.net/xiejiashu/article/details/38523437\n最新（2017）海康摄像机、NVR、流媒体服务器、回放取流RTSP地址规则说明 - 2017年05月13日 10:51:46 xiejiashu\nrtsp_path_hikvison = \"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel)\nhttps://blog.csdn.net/xiejiashu/article/details/71786187\n\"\"\"\ndef image_put(q, user, pwd, ip, channel=1):\n    cap = cv2.VideoCapture(\"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel))\n    if cap.isOpened():",
+        "detail": "Demo_camera_and_network.ip_camera",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.ip_camera import rtsp_path_hikvison\n```\n\n```python\n\n\n```\n\n```python\nrtsp_path_hikvison = \"rtsp://%s:%s@%s/h265/ch%s/main/av_stream\" % (user, pwd, ip, channel)\nrtsp_path_dahua = \"rtsp://%s:%s@%s/cam/realmonitor?channel=%d&subtype=0\" % (user, pwd, ip, channel)\nhttps://blog.csdn.net/xiejiashu/article/details/38523437\n最新（2017）海康摄像机、NVR、流媒体服务器、回放取流RTSP地址规则说明 - 2017年05月13日 10:51:46 xiejiashu\nrtsp_path_hikvison = \"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel)\nhttps://blog.csdn.net/xiejiashu/article/details/71786187\n\"\"\"\ndef image_put(q, user, pwd, ip, channel=1):\n    cap = cv2.VideoCapture(\"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel))\n    if cap.isOpened():\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "rtsp_path_dahua",
+        "kind": 5,
+        "importPath": "Demo_camera_and_network.ip_camera",
+        "description": "Demo_camera_and_network.ip_camera",
+        "peekOfCode": "rtsp_path_dahua = \"rtsp://%s:%s@%s/cam/realmonitor?channel=%d&subtype=0\" % (user, pwd, ip, channel)\nhttps://blog.csdn.net/xiejiashu/article/details/38523437\n最新（2017）海康摄像机、NVR、流媒体服务器、回放取流RTSP地址规则说明 - 2017年05月13日 10:51:46 xiejiashu\nrtsp_path_hikvison = \"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel)\nhttps://blog.csdn.net/xiejiashu/article/details/71786187\n\"\"\"\ndef image_put(q, user, pwd, ip, channel=1):\n    cap = cv2.VideoCapture(\"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel))\n    if cap.isOpened():\n        print('HIKVISION')",
+        "detail": "Demo_camera_and_network.ip_camera",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.ip_camera import rtsp_path_dahua\n```\n\n```python\n\n\n```\n\n```python\nrtsp_path_dahua = \"rtsp://%s:%s@%s/cam/realmonitor?channel=%d&subtype=0\" % (user, pwd, ip, channel)\nhttps://blog.csdn.net/xiejiashu/article/details/38523437\n最新（2017）海康摄像机、NVR、流媒体服务器、回放取流RTSP地址规则说明 - 2017年05月13日 10:51:46 xiejiashu\nrtsp_path_hikvison = \"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel)\nhttps://blog.csdn.net/xiejiashu/article/details/71786187\n\"\"\"\ndef image_put(q, user, pwd, ip, channel=1):\n    cap = cv2.VideoCapture(\"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel))\n    if cap.isOpened():\n        print('HIKVISION')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "rtsp_path_hikvison",
+        "kind": 5,
+        "importPath": "Demo_camera_and_network.ip_camera",
+        "description": "Demo_camera_and_network.ip_camera",
+        "peekOfCode": "rtsp_path_hikvison = \"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel)\nhttps://blog.csdn.net/xiejiashu/article/details/71786187\n\"\"\"\ndef image_put(q, user, pwd, ip, channel=1):\n    cap = cv2.VideoCapture(\"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel))\n    if cap.isOpened():\n        print('HIKVISION')\n    else:\n        cap = cv2.VideoCapture(\"rtsp://%s:%s@%s/cam/realmonitor?channel=%d&subtype=0\" % (user, pwd, ip, channel))\n        print('DaHua')",
+        "detail": "Demo_camera_and_network.ip_camera",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.ip_camera import rtsp_path_hikvison\n```\n\n```python\n\n\n```\n\n```python\nrtsp_path_hikvison = \"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel)\nhttps://blog.csdn.net/xiejiashu/article/details/71786187\n\"\"\"\ndef image_put(q, user, pwd, ip, channel=1):\n    cap = cv2.VideoCapture(\"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (user, pwd, ip, channel))\n    if cap.isOpened():\n        print('HIKVISION')\n    else:\n        cap = cv2.VideoCapture(\"rtsp://%s:%s@%s/cam/realmonitor?channel=%d&subtype=0\" % (user, pwd, ip, channel))\n        print('DaHua')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "client_img_put",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.server_client_camera",
+        "description": "Demo_camera_and_network.server_client_camera",
+        "peekOfCode": "def client_img_put(q, name, pwd, ip, channel=1):\n    cap = cv2.VideoCapture(\"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (name, pwd, ip, channel))\n    is_opened = cap.read()[0]\n    if is_opened:\n        print('HIKVISION')\n    else:\n        cap = cv2.VideoCapture(\"rtsp://%s:%s@%s/cam/realmonitor?channel=%d&subtype=0\" % (name, pwd, ip, channel))\n        print('DaHua')\n    while is_opened:\n        q.put(cap.read()[1]) if is_opened else None",
+        "detail": "Demo_camera_and_network.server_client_camera",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_camera import client_img_put\n```\n\n```python\n\n\n```\n\n```python\ndef client_img_put(q, name, pwd, ip, channel=1):\n    cap = cv2.VideoCapture(\"rtsp://%s:%s@%s//Streaming/Channels/%d\" % (name, pwd, ip, channel))\n    is_opened = cap.read()[0]\n    if is_opened:\n        print('HIKVISION')\n    else:\n        cap = cv2.VideoCapture(\"rtsp://%s:%s@%s/cam/realmonitor?channel=%d&subtype=0\" % (name, pwd, ip, channel))\n        print('DaHua')\n    while is_opened:\n        q.put(cap.read()[1]) if is_opened else None\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "client_img_get",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.server_client_camera",
+        "description": "Demo_camera_and_network.server_client_camera",
+        "peekOfCode": "def client_img_get(q, window_name, host, port):\n    # cv2.namedWindow(window_name, flags=cv2.WINDOW_FREERATIO)\n    from multiprocessing.connection import Client\n    client = Client((host, port))\n    '''init'''\n    frame = q.get()\n    shape = tuple([i // 3 for i in frame.shape[:2][::-1]])  # (1080P)\n    times = 0\n    time0 = time.time()\n    while time.time() - time0 < 10:",
+        "detail": "Demo_camera_and_network.server_client_camera",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_camera import client_img_get\n```\n\n```python\n\n\n```\n\n```python\ndef client_img_get(q, window_name, host, port):\n    # cv2.namedWindow(window_name, flags=cv2.WINDOW_FREERATIO)\n    from multiprocessing.connection import Client\n    client = Client((host, port))\n    '''init'''\n    frame = q.get()\n    shape = tuple([i // 3 for i in frame.shape[:2][::-1]])  # (1080P)\n    times = 0\n    time0 = time.time()\n    while time.time() - time0 < 10:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run_client",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.server_client_camera",
+        "description": "Demo_camera_and_network.server_client_camera",
+        "peekOfCode": "def run_client(host, port):\n    user_name, user_pwd, camera_ip = \"admin\", \"admin123456\", \"172.20.114.26\"\n    mp.set_start_method(method='spawn')  # init\n    queue = mp.Queue(maxsize=2)\n    processes = [\n        mp.Process(target=client_img_put, args=(queue, user_name, user_pwd, camera_ip)),\n        mp.Process(target=client_img_get, args=(queue, camera_ip, host, port)),\n    ]\n    [setattr(process, \"daemon\", True) for process in processes]  # process.daemon = True\n    [process.start() for process in processes]",
+        "detail": "Demo_camera_and_network.server_client_camera",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_camera import run_client\n```\n\n```python\n\n\n```\n\n```python\ndef run_client(host, port):\n    user_name, user_pwd, camera_ip = \"admin\", \"admin123456\", \"172.20.114.26\"\n    mp.set_start_method(method='spawn')  # init\n    queue = mp.Queue(maxsize=2)\n    processes = [\n        mp.Process(target=client_img_put, args=(queue, user_name, user_pwd, camera_ip)),\n        mp.Process(target=client_img_get, args=(queue, camera_ip, host, port)),\n    ]\n    [setattr(process, \"daemon\", True) for process in processes]  # process.daemon = True\n    [process.start() for process in processes]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run_server",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.server_client_camera",
+        "description": "Demo_camera_and_network.server_client_camera",
+        "peekOfCode": "def run_server(host, port):\n    from multiprocessing.connection import Listener\n    server_sock = Listener((host, port))\n    print('Server Listening')\n    conn = server_sock.accept()\n    print('Server Accept')\n    while True:\n        frame = conn.recv()\n        # frame = gzip.decompress(frame)\n        frame = pickle.loads(frame)",
+        "detail": "Demo_camera_and_network.server_client_camera",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_camera import run_server\n```\n\n```python\n\n\n```\n\n```python\ndef run_server(host, port):\n    from multiprocessing.connection import Listener\n    server_sock = Listener((host, port))\n    print('Server Listening')\n    conn = server_sock.accept()\n    print('Server Accept')\n    while True:\n        frame = conn.recv()\n        # frame = gzip.decompress(frame)\n        frame = pickle.loads(frame)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run_client",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.server_client_mp_connection",
+        "description": "Demo_camera_and_network.server_client_mp_connection",
+        "peekOfCode": "def run_client(host, port):\n    data = ['any', 'object']  # the Python object you wanna send\n    # import numpy as np\n    # data = np.zeros((1234, 1234, 3), np.uint8)  # Pickle EOFError\n    from multiprocessing.connection import Client\n    client = Client((host, port))\n    while True:\n        data_string = pickle.dumps(data)\n        client.send(data_string)\n        print('Send', type(data))",
+        "detail": "Demo_camera_and_network.server_client_mp_connection",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_mp_connection import run_client\n```\n\n```python\n\n\n```\n\n```python\ndef run_client(host, port):\n    data = ['any', 'object']  # the Python object you wanna send\n    # import numpy as np\n    # data = np.zeros((1234, 1234, 3), np.uint8)  # Pickle EOFError\n    from multiprocessing.connection import Client\n    client = Client((host, port))\n    while True:\n        data_string = pickle.dumps(data)\n        client.send(data_string)\n        print('Send', type(data))\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run_server",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.server_client_mp_connection",
+        "description": "Demo_camera_and_network.server_client_mp_connection",
+        "peekOfCode": "def run_server(host, port):\n    from multiprocessing.connection import Listener\n    server_sock = Listener((host, port))\n    print('Server Listening')\n    conn = server_sock.accept()\n    print('Server Accept')\n    while True:\n        data_bytes = conn.recv()\n        data = pickle.loads(data_bytes)\n        print('Received:', type(data))",
+        "detail": "Demo_camera_and_network.server_client_mp_connection",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_mp_connection import run_server\n```\n\n```python\n\n\n```\n\n```python\ndef run_server(host, port):\n    from multiprocessing.connection import Listener\n    server_sock = Listener((host, port))\n    print('Server Listening')\n    conn = server_sock.accept()\n    print('Server Accept')\n    while True:\n        data_bytes = conn.recv()\n        data = pickle.loads(data_bytes)\n        print('Received:', type(data))\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run_client",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.server_client_socket",
+        "description": "Demo_camera_and_network.server_client_socket",
+        "peekOfCode": "def run_client(host, port):\n\tdata = ['any', 'object']  # the data you wanna send\n\ts = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n\ts.connect((host, port))\n\twhile True:\n\t\tdata_bytes = pickle.dumps(data)\n\t\ts.send(data_bytes)\n\t\tprint('Send:', type(data), sys.getsizeof(data_bytes))\n\t\ttime.sleep(0.5)  # 0.5 second\n\t# s.close()",
+        "detail": "Demo_camera_and_network.server_client_socket",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_socket import run_client\n```\n\n```python\n\n\n```\n\n```python\ndef run_client(host, port):\n\tdata = ['any', 'object']  # the data you wanna send\n\ts = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n\ts.connect((host, port))\n\twhile True:\n\t\tdata_bytes = pickle.dumps(data)\n\t\ts.send(data_bytes)\n\t\tprint('Send:', type(data), sys.getsizeof(data_bytes))\n\t\ttime.sleep(0.5)  # 0.5 second\n\t# s.close()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run_server",
+        "kind": 2,
+        "importPath": "Demo_camera_and_network.server_client_socket",
+        "description": "Demo_camera_and_network.server_client_socket",
+        "peekOfCode": "def run_server(host, port):\n\ts = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n\ts.bind((host, port))\n\ts.listen(1)\n\tprint('Server Listening')\n\tconn, addr = s.accept()\n\tprint('Server connected by:', addr)\n\twhile True:\n\t\tdata_bytes = conn.recv(1024)  # [bufsize=1024] >= [sys.getsizeof(data_bytes)]\n\t\tdata = pickle.loads(data_bytes)  # Pickle EOFError: Ran out of input, when data_bytes is too large.",
+        "detail": "Demo_camera_and_network.server_client_socket",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_socket import run_server\n```\n\n```python\n\n\n```\n\n```python\ndef run_server(host, port):\n\ts = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n\ts.bind((host, port))\n\ts.listen(1)\n\tprint('Server Listening')\n\tconn, addr = s.accept()\n\tprint('Server connected by:', addr)\n\twhile True:\n\t\tdata_bytes = conn.recv(1024)  # [bufsize=1024] >= [sys.getsizeof(data_bytes)]\n\t\tdata = pickle.loads(data_bytes)  # Pickle EOFError: Ran out of input, when data_bytes is too large.\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "\tdata",
+        "kind": 5,
+        "importPath": "Demo_camera_and_network.server_client_socket",
+        "description": "Demo_camera_and_network.server_client_socket",
+        "peekOfCode": "\tdata = ['any', 'object']  # the data you wanna send\n\ts = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n\ts.connect((host, port))\n\twhile True:\n\t\tdata_bytes = pickle.dumps(data)\n\t\ts.send(data_bytes)\n\t\tprint('Send:', type(data), sys.getsizeof(data_bytes))\n\t\ttime.sleep(0.5)  # 0.5 second\n\t# s.close()\n\tpass",
+        "detail": "Demo_camera_and_network.server_client_socket",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_socket import \tdata\n```\n\n```python\n\n\n```\n\n```python\n\tdata = ['any', 'object']  # the data you wanna send\n\ts = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n\ts.connect((host, port))\n\twhile True:\n\t\tdata_bytes = pickle.dumps(data)\n\t\ts.send(data_bytes)\n\t\tprint('Send:', type(data), sys.getsizeof(data_bytes))\n\t\ttime.sleep(0.5)  # 0.5 second\n\t# s.close()\n\tpass\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "\ts",
+        "kind": 5,
+        "importPath": "Demo_camera_and_network.server_client_socket",
+        "description": "Demo_camera_and_network.server_client_socket",
+        "peekOfCode": "\ts = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n\ts.connect((host, port))\n\twhile True:\n\t\tdata_bytes = pickle.dumps(data)\n\t\ts.send(data_bytes)\n\t\tprint('Send:', type(data), sys.getsizeof(data_bytes))\n\t\ttime.sleep(0.5)  # 0.5 second\n\t# s.close()\n\tpass\ndef run_server(host, port):",
+        "detail": "Demo_camera_and_network.server_client_socket",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_socket import \ts\n```\n\n```python\n\n\n```\n\n```python\n\ts = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n\ts.connect((host, port))\n\twhile True:\n\t\tdata_bytes = pickle.dumps(data)\n\t\ts.send(data_bytes)\n\t\tprint('Send:', type(data), sys.getsizeof(data_bytes))\n\t\ttime.sleep(0.5)  # 0.5 second\n\t# s.close()\n\tpass\ndef run_server(host, port):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "\t\tdata_bytes",
+        "kind": 5,
+        "importPath": "Demo_camera_and_network.server_client_socket",
+        "description": "Demo_camera_and_network.server_client_socket",
+        "peekOfCode": "\t\tdata_bytes = pickle.dumps(data)\n\t\ts.send(data_bytes)\n\t\tprint('Send:', type(data), sys.getsizeof(data_bytes))\n\t\ttime.sleep(0.5)  # 0.5 second\n\t# s.close()\n\tpass\ndef run_server(host, port):\n\ts = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n\ts.bind((host, port))\n\ts.listen(1)",
+        "detail": "Demo_camera_and_network.server_client_socket",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_socket import \t\tdata_bytes\n```\n\n```python\n\n\n```\n\n```python\n\t\tdata_bytes = pickle.dumps(data)\n\t\ts.send(data_bytes)\n\t\tprint('Send:', type(data), sys.getsizeof(data_bytes))\n\t\ttime.sleep(0.5)  # 0.5 second\n\t# s.close()\n\tpass\ndef run_server(host, port):\n\ts = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n\ts.bind((host, port))\n\ts.listen(1)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "\ts",
+        "kind": 5,
+        "importPath": "Demo_camera_and_network.server_client_socket",
+        "description": "Demo_camera_and_network.server_client_socket",
+        "peekOfCode": "\ts = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n\ts.bind((host, port))\n\ts.listen(1)\n\tprint('Server Listening')\n\tconn, addr = s.accept()\n\tprint('Server connected by:', addr)\n\twhile True:\n\t\tdata_bytes = conn.recv(1024)  # [bufsize=1024] >= [sys.getsizeof(data_bytes)]\n\t\tdata = pickle.loads(data_bytes)  # Pickle EOFError: Ran out of input, when data_bytes is too large.\n\t\tprint('Received:', type(data), sys.getsizeof(data_bytes))",
+        "detail": "Demo_camera_and_network.server_client_socket",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_socket import \ts\n```\n\n```python\n\n\n```\n\n```python\n\ts = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n\ts.bind((host, port))\n\ts.listen(1)\n\tprint('Server Listening')\n\tconn, addr = s.accept()\n\tprint('Server connected by:', addr)\n\twhile True:\n\t\tdata_bytes = conn.recv(1024)  # [bufsize=1024] >= [sys.getsizeof(data_bytes)]\n\t\tdata = pickle.loads(data_bytes)  # Pickle EOFError: Ran out of input, when data_bytes is too large.\n\t\tprint('Received:', type(data), sys.getsizeof(data_bytes))\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "\t\tdata_bytes",
+        "kind": 5,
+        "importPath": "Demo_camera_and_network.server_client_socket",
+        "description": "Demo_camera_and_network.server_client_socket",
+        "peekOfCode": "\t\tdata_bytes = conn.recv(1024)  # [bufsize=1024] >= [sys.getsizeof(data_bytes)]\n\t\tdata = pickle.loads(data_bytes)  # Pickle EOFError: Ran out of input, when data_bytes is too large.\n\t\tprint('Received:', type(data), sys.getsizeof(data_bytes))\n\t# conn.close()\n\t# s.close()\n\tpass\nif __name__ == '__main__':\n\tserver_host = 'x.x.x.x'  # host = 'localhost'\n\tserver_port = 32928  # if [Address already in use], use another port\n\tdef get_ip_address(remote_server=\"8.8.8.8\"):",
+        "detail": "Demo_camera_and_network.server_client_socket",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_socket import \t\tdata_bytes\n```\n\n```python\n\n\n```\n\n```python\n\t\tdata_bytes = conn.recv(1024)  # [bufsize=1024] >= [sys.getsizeof(data_bytes)]\n\t\tdata = pickle.loads(data_bytes)  # Pickle EOFError: Ran out of input, when data_bytes is too large.\n\t\tprint('Received:', type(data), sys.getsizeof(data_bytes))\n\t# conn.close()\n\t# s.close()\n\tpass\nif __name__ == '__main__':\n\tserver_host = 'x.x.x.x'  # host = 'localhost'\n\tserver_port = 32928  # if [Address already in use], use another port\n\tdef get_ip_address(remote_server=\"8.8.8.8\"):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "\t\tdata",
+        "kind": 5,
+        "importPath": "Demo_camera_and_network.server_client_socket",
+        "description": "Demo_camera_and_network.server_client_socket",
+        "peekOfCode": "\t\tdata = pickle.loads(data_bytes)  # Pickle EOFError: Ran out of input, when data_bytes is too large.\n\t\tprint('Received:', type(data), sys.getsizeof(data_bytes))\n\t# conn.close()\n\t# s.close()\n\tpass\nif __name__ == '__main__':\n\tserver_host = 'x.x.x.x'  # host = 'localhost'\n\tserver_port = 32928  # if [Address already in use], use another port\n\tdef get_ip_address(remote_server=\"8.8.8.8\"):\n\t\ts = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)",
+        "detail": "Demo_camera_and_network.server_client_socket",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_socket import \t\tdata\n```\n\n```python\n\n\n```\n\n```python\n\t\tdata = pickle.loads(data_bytes)  # Pickle EOFError: Ran out of input, when data_bytes is too large.\n\t\tprint('Received:', type(data), sys.getsizeof(data_bytes))\n\t# conn.close()\n\t# s.close()\n\tpass\nif __name__ == '__main__':\n\tserver_host = 'x.x.x.x'  # host = 'localhost'\n\tserver_port = 32928  # if [Address already in use], use another port\n\tdef get_ip_address(remote_server=\"8.8.8.8\"):\n\t\ts = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "\tserver_host",
+        "kind": 5,
+        "importPath": "Demo_camera_and_network.server_client_socket",
+        "description": "Demo_camera_and_network.server_client_socket",
+        "peekOfCode": "\tserver_host = 'x.x.x.x'  # host = 'localhost'\n\tserver_port = 32928  # if [Address already in use], use another port\n\tdef get_ip_address(remote_server=\"8.8.8.8\"):\n\t\ts = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\n\t\ts.connect((remote_server, 80))\n\t\treturn s.getsockname()[0]\n\tif get_ip_address() == server_host:\n\t\trun_server(server_host, server_port)  # first, run this function only in server\n\telse:\n\t\trun_client(server_host, server_port)  # then, run this function only in client",
+        "detail": "Demo_camera_and_network.server_client_socket",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_socket import \tserver_host\n```\n\n```python\n\n\n```\n\n```python\n\tserver_host = 'x.x.x.x'  # host = 'localhost'\n\tserver_port = 32928  # if [Address already in use], use another port\n\tdef get_ip_address(remote_server=\"8.8.8.8\"):\n\t\ts = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\n\t\ts.connect((remote_server, 80))\n\t\treturn s.getsockname()[0]\n\tif get_ip_address() == server_host:\n\t\trun_server(server_host, server_port)  # first, run this function only in server\n\telse:\n\t\trun_client(server_host, server_port)  # then, run this function only in client\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "\tserver_port",
+        "kind": 5,
+        "importPath": "Demo_camera_and_network.server_client_socket",
+        "description": "Demo_camera_and_network.server_client_socket",
+        "peekOfCode": "\tserver_port = 32928  # if [Address already in use], use another port\n\tdef get_ip_address(remote_server=\"8.8.8.8\"):\n\t\ts = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\n\t\ts.connect((remote_server, 80))\n\t\treturn s.getsockname()[0]\n\tif get_ip_address() == server_host:\n\t\trun_server(server_host, server_port)  # first, run this function only in server\n\telse:\n\t\trun_client(server_host, server_port)  # then, run this function only in client",
+        "detail": "Demo_camera_and_network.server_client_socket",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_socket import \tserver_port\n```\n\n```python\n\n\n```\n\n```python\n\tserver_port = 32928  # if [Address already in use], use another port\n\tdef get_ip_address(remote_server=\"8.8.8.8\"):\n\t\ts = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\n\t\ts.connect((remote_server, 80))\n\t\treturn s.getsockname()[0]\n\tif get_ip_address() == server_host:\n\t\trun_server(server_host, server_port)  # first, run this function only in server\n\telse:\n\t\trun_client(server_host, server_port)  # then, run this function only in client\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "\t\ts",
+        "kind": 5,
+        "importPath": "Demo_camera_and_network.server_client_socket",
+        "description": "Demo_camera_and_network.server_client_socket",
+        "peekOfCode": "\t\ts = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\n\t\ts.connect((remote_server, 80))\n\t\treturn s.getsockname()[0]\n\tif get_ip_address() == server_host:\n\t\trun_server(server_host, server_port)  # first, run this function only in server\n\telse:\n\t\trun_client(server_host, server_port)  # then, run this function only in client",
+        "detail": "Demo_camera_and_network.server_client_socket",
+        "documentation": {
+            "value": "\n```python\nfrom Demo_camera_and_network.server_client_socket import \t\ts\n```\n\n```python\n\n\n```\n\n```python\n\t\ts = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\n\t\ts.connect((remote_server, 80))\n\t\treturn s.getsockname()[0]\n\tif get_ip_address() == server_host:\n\t\trun_server(server_host, server_port)  # first, run this function only in server\n\telse:\n\t\trun_client(server_host, server_port)  # then, run this function only in client\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "queue_img_put",
+        "kind": 2,
+        "importPath": "Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR",
+        "description": "Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR",
+        "peekOfCode": "def queue_img_put(queue, img_paths):\n    for i, img_path in enumerate(img_paths):\n        img = cv2.imread(img_path)  # Disk IO\n        queue.put((img, i, img_path))\ndef queue_img_get(queue):\n    window_name = ''\n    cv2.namedWindow(window_name, cv2.WINDOW_KEEPRATIO)\n    while True:\n        img, i, img_path = queue.get()\n        if not isinstance(img, np.ndarray):",
+        "detail": "Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR import queue_img_put\n```\n\n```python\n\n\n```\n\n```python\ndef queue_img_put(queue, img_paths):\n    for i, img_path in enumerate(img_paths):\n        img = cv2.imread(img_path)  # Disk IO\n        queue.put((img, i, img_path))\ndef queue_img_get(queue):\n    window_name = ''\n    cv2.namedWindow(window_name, cv2.WINDOW_KEEPRATIO)\n    while True:\n        img, i, img_path = queue.get()\n        if not isinstance(img, np.ndarray):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "queue_img_get",
+        "kind": 2,
+        "importPath": "Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR",
+        "description": "Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR",
+        "peekOfCode": "def queue_img_get(queue):\n    window_name = ''\n    cv2.namedWindow(window_name, cv2.WINDOW_KEEPRATIO)\n    while True:\n        img, i, img_path = queue.get()\n        if not isinstance(img, np.ndarray):\n            os.remove(img_path), print(\"| Remove no image:\", i, img_path)\n        elif not (img[-4:, -4:] - 128).any():  # download incomplete\n            os.remove(img_path), print(\"| Remove incomplete image:\", i, img_path)\n        else:",
+        "detail": "Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR import queue_img_get\n```\n\n```python\n\n\n```\n\n```python\ndef queue_img_get(queue):\n    window_name = ''\n    cv2.namedWindow(window_name, cv2.WINDOW_KEEPRATIO)\n    while True:\n        img, i, img_path = queue.get()\n        if not isinstance(img, np.ndarray):\n            os.remove(img_path), print(\"| Remove no image:\", i, img_path)\n        elif not (img[-4:, -4:] - 128).any():  # download incomplete\n            os.remove(img_path), print(\"| Remove incomplete image:\", i, img_path)\n        else:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run1",
+        "kind": 2,
+        "importPath": "Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR",
+        "description": "Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR",
+        "peekOfCode": "def run1():\n    src_path = 'F:/url_get_image/ftp.nnvl.noaa.gov_color_IR_2018'\n    img_paths = [os.path.join(src_path, f) for f in os.listdir(src_path) if f[-4:] == '.jpg']\n    print(len(img_paths), img_paths[0])\n    mp.set_start_method('spawn')\n    queue_img = mp.Queue(4)\n    processes = [\n        mp.Process(target=queue_img_put, args=(queue_img, img_paths)),\n        mp.Process(target=queue_img_get, args=(queue_img,)),\n    ]",
+        "detail": "Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR import run1\n```\n\n```python\n\n\n```\n\n```python\ndef run1():\n    src_path = 'F:/url_get_image/ftp.nnvl.noaa.gov_color_IR_2018'\n    img_paths = [os.path.join(src_path, f) for f in os.listdir(src_path) if f[-4:] == '.jpg']\n    print(len(img_paths), img_paths[0])\n    mp.set_start_method('spawn')\n    queue_img = mp.Queue(4)\n    processes = [\n        mp.Process(target=queue_img_put, args=(queue_img, img_paths)),\n        mp.Process(target=queue_img_get, args=(queue_img,)),\n    ]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_white_line_eliminate_map",
+        "kind": 2,
+        "importPath": "Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR",
+        "description": "Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR",
+        "peekOfCode": "def get_white_line_eliminate_map():\n    window_name = ''\n    cv2.namedWindow(window_name, cv2.WINDOW_KEEPRATIO)\n    line_img = 'white_line_LMBWV2018-01-25-171633.jpg'\n    line_img = cv2.imread(line_img)  # Disk IO\n    line_img = line_img[:, :, 1]\n    # line_img = cv2.cvtColor(line_img, cv2.COLOR_BGR2GRAY)\n    line_img = cv2.threshold(line_img, 127, 255, cv2.THRESH_BINARY)[1]\n    # shift_pts = []\n    # for i in range(line_img.shape[0]):",
+        "detail": "Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR import get_white_line_eliminate_map\n```\n\n```python\n\n\n```\n\n```python\ndef get_white_line_eliminate_map():\n    window_name = ''\n    cv2.namedWindow(window_name, cv2.WINDOW_KEEPRATIO)\n    line_img = 'white_line_LMBWV2018-01-25-171633.jpg'\n    line_img = cv2.imread(line_img)  # Disk IO\n    line_img = line_img[:, :, 1]\n    # line_img = cv2.cvtColor(line_img, cv2.COLOR_BGR2GRAY)\n    line_img = cv2.threshold(line_img, 127, 255, cv2.THRESH_BINARY)[1]\n    # shift_pts = []\n    # for i in range(line_img.shape[0]):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "switch_ir_to_gray",
+        "kind": 2,
+        "importPath": "Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR",
+        "description": "Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR",
+        "peekOfCode": "def switch_ir_to_gray(img, map_pts):\n    # img = cv2.imread('test.jpg')\n    # map_pts = np.load('white_line_eliminate_map.npy')\n    for i, j, x, y in map_pts:\n        img[i, j] = img[x, y]\n    out = img[:, :, 1]\n    out = np.maximum(out, 60)\n    out = np.minimum(out, 187)\n    green = 60 - out\n    gray = out - 60",
+        "detail": "Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.去掉图中白线，cmap转化为灰度图.white_map_color_IR import switch_ir_to_gray\n```\n\n```python\n\n\n```\n\n```python\ndef switch_ir_to_gray(img, map_pts):\n    # img = cv2.imread('test.jpg')\n    # map_pts = np.load('white_line_eliminate_map.npy')\n    for i, j, x, y in map_pts:\n        img[i, j] = img[x, y]\n    out = img[:, :, 1]\n    out = np.maximum(out, 60)\n    out = np.minimum(out, 187)\n    green = 60 - out\n    gray = out - 60\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Information",
+        "kind": 6,
+        "importPath": "Plan.DEMO-EvArea-cv2-mp-np",
+        "description": "Plan.DEMO-EvArea-cv2-mp-np",
+        "peekOfCode": "class Information(object):\n    room = 4  # seed room\n    seat = 3  # area seat\n    side = 48  # area side\n    size = 4  # vida multi-processing threading number\n    explore = {  # vida, area (x, y)\n        0: np.array([+1, +0]),\n        1: np.array([+0, +1]),\n        2: np.array([-1, +0]),\n        3: np.array([+0, -1]),",
+        "detail": "Plan.DEMO-EvArea-cv2-mp-np",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO-EvArea-cv2-mp-np import Information\n```\n\n```python\n\n\n```\n\n```python\nclass Information(object):\n    room = 4  # seed room\n    seat = 3  # area seat\n    side = 48  # area side\n    size = 4  # vida multi-processing threading number\n    explore = {  # vida, area (x, y)\n        0: np.array([+1, +0]),\n        1: np.array([+0, +1]),\n        2: np.array([-1, +0]),\n        3: np.array([+0, -1]),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "seed",
+        "kind": 2,
+        "importPath": "Plan.DEMO-EvArea-cv2-mp-np",
+        "description": "Plan.DEMO-EvArea-cv2-mp-np",
+        "peekOfCode": "def seed(m1, m2):\n    m2 = m1\n    return m1, m2\ndef vida(area):\n    for (x1, y1) in itertools.product(range(1, i.side - 1), range(1, i.side - 1)):\n        if area[x1, y1][i.li] <= 0.0:  # life == 0, continue\n            continue\n        (x2, y2) = i.explore[rd.randint(4)] + (x1, y1)\n        m1, m2 = area[x1, y1], area[x2, y2]\n        m1, m2 = seed(m1, m2)",
+        "detail": "Plan.DEMO-EvArea-cv2-mp-np",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO-EvArea-cv2-mp-np import seed\n```\n\n```python\n\n\n```\n\n```python\ndef seed(m1, m2):\n    m2 = m1\n    return m1, m2\ndef vida(area):\n    for (x1, y1) in itertools.product(range(1, i.side - 1), range(1, i.side - 1)):\n        if area[x1, y1][i.li] <= 0.0:  # life == 0, continue\n            continue\n        (x2, y2) = i.explore[rd.randint(4)] + (x1, y1)\n        m1, m2 = area[x1, y1], area[x2, y2]\n        m1, m2 = seed(m1, m2)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "vida",
+        "kind": 2,
+        "importPath": "Plan.DEMO-EvArea-cv2-mp-np",
+        "description": "Plan.DEMO-EvArea-cv2-mp-np",
+        "peekOfCode": "def vida(area):\n    for (x1, y1) in itertools.product(range(1, i.side - 1), range(1, i.side - 1)):\n        if area[x1, y1][i.li] <= 0.0:  # life == 0, continue\n            continue\n        (x2, y2) = i.explore[rd.randint(4)] + (x1, y1)\n        m1, m2 = area[x1, y1], area[x2, y2]\n        m1, m2 = seed(m1, m2)\n        area[x1, y1], area[x2, y2] = m1, m2\n    return area\ndef p_vida(q_img, side):",
+        "detail": "Plan.DEMO-EvArea-cv2-mp-np",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO-EvArea-cv2-mp-np import vida\n```\n\n```python\n\n\n```\n\n```python\ndef vida(area):\n    for (x1, y1) in itertools.product(range(1, i.side - 1), range(1, i.side - 1)):\n        if area[x1, y1][i.li] <= 0.0:  # life == 0, continue\n            continue\n        (x2, y2) = i.explore[rd.randint(4)] + (x1, y1)\n        m1, m2 = area[x1, y1], area[x2, y2]\n        m1, m2 = seed(m1, m2)\n        area[x1, y1], area[x2, y2] = m1, m2\n    return area\ndef p_vida(q_img, side):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "p_vida",
+        "kind": 2,
+        "importPath": "Plan.DEMO-EvArea-cv2-mp-np",
+        "description": "Plan.DEMO-EvArea-cv2-mp-np",
+        "peekOfCode": "def p_vida(q_img, side):\n    area = np.zeros((side, side, i.seat), dtype=np.float)\n    '''plant'''\n    seed_num = int(side ** 2 / i.room ** 2)\n    for (x, y) in rd.randint(low=0, high=i.side, size=(seed_num, 2)):\n        area[x, y] = rd.uniform(low=0.0, high=1.0, size=i.seat)\n    while True:\n        area = vida(area)\n        q_img.put(area)\ndef p_view(q_img, window_name):",
+        "detail": "Plan.DEMO-EvArea-cv2-mp-np",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO-EvArea-cv2-mp-np import p_vida\n```\n\n```python\n\n\n```\n\n```python\ndef p_vida(q_img, side):\n    area = np.zeros((side, side, i.seat), dtype=np.float)\n    '''plant'''\n    seed_num = int(side ** 2 / i.room ** 2)\n    for (x, y) in rd.randint(low=0, high=i.side, size=(seed_num, 2)):\n        area[x, y] = rd.uniform(low=0.0, high=1.0, size=i.seat)\n    while True:\n        area = vida(area)\n        q_img.put(area)\ndef p_view(q_img, window_name):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "p_view",
+        "kind": 2,
+        "importPath": "Plan.DEMO-EvArea-cv2-mp-np",
+        "description": "Plan.DEMO-EvArea-cv2-mp-np",
+        "peekOfCode": "def p_view(q_img, window_name):\n    cv2.namedWindow(window_name, flags=cv2.WINDOW_KEEPRATIO)\n    timer0 = time.time()\n    while True:\n        area = q_img.get()\n        show = np.array(area[:, :, i.ib:i.di])\n        show = np.array(show * (255.0 / np.max(show)), dtype=np.uint8)\n        cv2.imshow(window_name, show)\n        cv2.waitKey(1)\n        timer1 = time.time()",
+        "detail": "Plan.DEMO-EvArea-cv2-mp-np",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO-EvArea-cv2-mp-np import p_view\n```\n\n```python\n\n\n```\n\n```python\ndef p_view(q_img, window_name):\n    cv2.namedWindow(window_name, flags=cv2.WINDOW_KEEPRATIO)\n    timer0 = time.time()\n    while True:\n        area = q_img.get()\n        show = np.array(area[:, :, i.ib:i.di])\n        show = np.array(show * (255.0 / np.max(show)), dtype=np.uint8)\n        cv2.imshow(window_name, show)\n        cv2.waitKey(1)\n        timer1 = time.time()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Plan.DEMO-EvArea-cv2-mp-np",
+        "description": "Plan.DEMO-EvArea-cv2-mp-np",
+        "peekOfCode": "def main():\n    mp.set_start_method('spawn')\n    queue_img = mp.Queue(maxsize=4)\n    process_l = [\n        mp.Process(target=p_vida, args=(queue_img, i.side)),\n        mp.Process(target=p_view, args=(queue_img, 'EvArea')),\n    ]\n    [p.start() for p in process_l]\n    [p.join() for p in process_l]\nif __name__ == '__main__':",
+        "detail": "Plan.DEMO-EvArea-cv2-mp-np",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO-EvArea-cv2-mp-np import main\n```\n\n```python\n\n\n```\n\n```python\ndef main():\n    mp.set_start_method('spawn')\n    queue_img = mp.Queue(maxsize=4)\n    process_l = [\n        mp.Process(target=p_vida, args=(queue_img, i.side)),\n        mp.Process(target=p_view, args=(queue_img, 'EvArea')),\n    ]\n    [p.start() for p in process_l]\n    [p.join() for p in process_l]\nif __name__ == '__main__':\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "Plan.DEMO-EvArea-cv2-mp-np",
+        "description": "Plan.DEMO-EvArea-cv2-mp-np",
+        "peekOfCode": "i = Information()\nrd.seed(int(time.time()))\ndef seed(m1, m2):\n    m2 = m1\n    return m1, m2\ndef vida(area):\n    for (x1, y1) in itertools.product(range(1, i.side - 1), range(1, i.side - 1)):\n        if area[x1, y1][i.li] <= 0.0:  # life == 0, continue\n            continue\n        (x2, y2) = i.explore[rd.randint(4)] + (x1, y1)",
+        "detail": "Plan.DEMO-EvArea-cv2-mp-np",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO-EvArea-cv2-mp-np import i\n```\n\n```python\n\n\n```\n\n```python\ni = Information()\nrd.seed(int(time.time()))\ndef seed(m1, m2):\n    m2 = m1\n    return m1, m2\ndef vida(area):\n    for (x1, y1) in itertools.product(range(1, i.side - 1), range(1, i.side - 1)):\n        if area[x1, y1][i.li] <= 0.0:  # life == 0, continue\n            continue\n        (x2, y2) = i.explore[rd.randint(4)] + (x1, y1)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TensorFlowXmlIO",
+        "kind": 6,
+        "importPath": "Plan.DEMO-tensorflow_xml",
+        "description": "Plan.DEMO-tensorflow_xml",
+        "peekOfCode": "class TensorFlowXmlIO(object):\n    def __init__(self, dir_pwd, root='annotation'):\n        self.root = root\n        self.img_name = '.jpg'\n        dir_pwd = dir_pwd.replace('\\\\', '/')\n        dir_pwd = dir_pwd[:-1] if dir_pwd[-1] == '/' else dir_pwd\n        dir_pwd = dir_pwd if dir_pwd[0] == '/' else \"%s/%s\" % (os.getcwd(), dir_pwd)\n        self.dir_pwd = dir_pwd  # get complete pwd of [folder]\n        self.img_path = os.path.join(self.dir_pwd, self.img_name)\n        self.folder = self.dir_pwd.split('/')[-1]  # extract dir name",
+        "detail": "Plan.DEMO-tensorflow_xml",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO-tensorflow_xml import TensorFlowXmlIO\n```\n\n```python\n\n\n```\n\n```python\nclass TensorFlowXmlIO(object):\n    def __init__(self, dir_pwd, root='annotation'):\n        self.root = root\n        self.img_name = '.jpg'\n        dir_pwd = dir_pwd.replace('\\\\', '/')\n        dir_pwd = dir_pwd[:-1] if dir_pwd[-1] == '/' else dir_pwd\n        dir_pwd = dir_pwd if dir_pwd[0] == '/' else \"%s/%s\" % (os.getcwd(), dir_pwd)\n        self.dir_pwd = dir_pwd  # get complete pwd of [folder]\n        self.img_path = os.path.join(self.dir_pwd, self.img_name)\n        self.folder = self.dir_pwd.split('/')[-1]  # extract dir name\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "write_xml",
+        "kind": 2,
+        "importPath": "Plan.DEMO-tensorflow_xml",
+        "description": "Plan.DEMO-tensorflow_xml",
+        "peekOfCode": "def write_xml(xml_pwd, xml_d, same_key_l, pretty_print=False):\n    with open(xml_pwd, 'w') as f:  # write xml by dict()\n        xml_str = dicttoxml.dicttoxml(xml_d, root=False, attr_type=False, ids=False).decode('utf-8')\n        for same_key in same_key_l:\n            xml_str = xml_str.replace('<%s><item>' % same_key, \"<%s>\" % same_key)\n            xml_str = xml_str.replace('</item><item>', \"</%s><%s>\" % (same_key, same_key))\n            xml_str = xml_str.replace('</item></%s>' % same_key, \"</%s>\" % same_key)\n        xml_str = etree.tostring(etree.fromstring(xml_str), pretty_print=True).decode('utf-8') \\\n            if pretty_print else xml_str  # pretty print xml\n        f.write(xml_str)",
+        "detail": "Plan.DEMO-tensorflow_xml",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO-tensorflow_xml import write_xml\n```\n\n```python\n\n\n```\n\n```python\ndef write_xml(xml_pwd, xml_d, same_key_l, pretty_print=False):\n    with open(xml_pwd, 'w') as f:  # write xml by dict()\n        xml_str = dicttoxml.dicttoxml(xml_d, root=False, attr_type=False, ids=False).decode('utf-8')\n        for same_key in same_key_l:\n            xml_str = xml_str.replace('<%s><item>' % same_key, \"<%s>\" % same_key)\n            xml_str = xml_str.replace('</item><item>', \"</%s><%s>\" % (same_key, same_key))\n            xml_str = xml_str.replace('</item></%s>' % same_key, \"</%s>\" % same_key)\n        xml_str = etree.tostring(etree.fromstring(xml_str), pretty_print=True).decode('utf-8') \\\n            if pretty_print else xml_str  # pretty print xml\n        f.write(xml_str)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "filename",
+        "kind": 5,
+        "importPath": "Plan.DEMO-xml_to_dict_mutually",
+        "description": "Plan.DEMO-xml_to_dict_mutually",
+        "peekOfCode": "filename = 'lena.jpg'\nimg = cv2.imread(filename)\nroot = 'custom_root_name'\nxml_dict = {root: {\n    'KEY1': 1, 'KEY2': 2,\n    'KEY3': {'KEY3_1': 31, 'KEY3_2': 32},\n    'SAME_KEY': [],\n}}\nfor i in range(3):\n    xml_dict[root]['SAME_KEY'].append({",
+        "detail": "Plan.DEMO-xml_to_dict_mutually",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO-xml_to_dict_mutually import filename\n```\n\n```python\n\n\n```\n\n```python\nfilename = 'lena.jpg'\nimg = cv2.imread(filename)\nroot = 'custom_root_name'\nxml_dict = {root: {\n    'KEY1': 1, 'KEY2': 2,\n    'KEY3': {'KEY3_1': 31, 'KEY3_2': 32},\n    'SAME_KEY': [],\n}}\nfor i in range(3):\n    xml_dict[root]['SAME_KEY'].append({\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": "Plan.DEMO-xml_to_dict_mutually",
+        "description": "Plan.DEMO-xml_to_dict_mutually",
+        "peekOfCode": "img = cv2.imread(filename)\nroot = 'custom_root_name'\nxml_dict = {root: {\n    'KEY1': 1, 'KEY2': 2,\n    'KEY3': {'KEY3_1': 31, 'KEY3_2': 32},\n    'SAME_KEY': [],\n}}\nfor i in range(3):\n    xml_dict[root]['SAME_KEY'].append({\n        'item_str': str(i), 'item2_int': int(i), 'item3_float': float(i),",
+        "detail": "Plan.DEMO-xml_to_dict_mutually",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO-xml_to_dict_mutually import img\n```\n\n```python\n\n\n```\n\n```python\nimg = cv2.imread(filename)\nroot = 'custom_root_name'\nxml_dict = {root: {\n    'KEY1': 1, 'KEY2': 2,\n    'KEY3': {'KEY3_1': 31, 'KEY3_2': 32},\n    'SAME_KEY': [],\n}}\nfor i in range(3):\n    xml_dict[root]['SAME_KEY'].append({\n        'item_str': str(i), 'item2_int': int(i), 'item3_float': float(i),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "root",
+        "kind": 5,
+        "importPath": "Plan.DEMO-xml_to_dict_mutually",
+        "description": "Plan.DEMO-xml_to_dict_mutually",
+        "peekOfCode": "root = 'custom_root_name'\nxml_dict = {root: {\n    'KEY1': 1, 'KEY2': 2,\n    'KEY3': {'KEY3_1': 31, 'KEY3_2': 32},\n    'SAME_KEY': [],\n}}\nfor i in range(3):\n    xml_dict[root]['SAME_KEY'].append({\n        'item_str': str(i), 'item2_int': int(i), 'item3_float': float(i),\n        'item_list': [i, i],",
+        "detail": "Plan.DEMO-xml_to_dict_mutually",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO-xml_to_dict_mutually import root\n```\n\n```python\n\n\n```\n\n```python\nroot = 'custom_root_name'\nxml_dict = {root: {\n    'KEY1': 1, 'KEY2': 2,\n    'KEY3': {'KEY3_1': 31, 'KEY3_2': 32},\n    'SAME_KEY': [],\n}}\nfor i in range(3):\n    xml_dict[root]['SAME_KEY'].append({\n        'item_str': str(i), 'item2_int': int(i), 'item3_float': float(i),\n        'item_list': [i, i],\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "xml_dict",
+        "kind": 5,
+        "importPath": "Plan.DEMO-xml_to_dict_mutually",
+        "description": "Plan.DEMO-xml_to_dict_mutually",
+        "peekOfCode": "xml_dict = {root: {\n    'KEY1': 1, 'KEY2': 2,\n    'KEY3': {'KEY3_1': 31, 'KEY3_2': 32},\n    'SAME_KEY': [],\n}}\nfor i in range(3):\n    xml_dict[root]['SAME_KEY'].append({\n        'item_str': str(i), 'item2_int': int(i), 'item3_float': float(i),\n        'item_list': [i, i],\n        'item_dict': {i: i, i + 1: i + 1},",
+        "detail": "Plan.DEMO-xml_to_dict_mutually",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO-xml_to_dict_mutually import xml_dict\n```\n\n```python\n\n\n```\n\n```python\nxml_dict = {root: {\n    'KEY1': 1, 'KEY2': 2,\n    'KEY3': {'KEY3_1': 31, 'KEY3_2': 32},\n    'SAME_KEY': [],\n}}\nfor i in range(3):\n    xml_dict[root]['SAME_KEY'].append({\n        'item_str': str(i), 'item2_int': int(i), 'item3_float': float(i),\n        'item_list': [i, i],\n        'item_dict': {i: i, i + 1: i + 1},\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "win_name",
+        "kind": 5,
+        "importPath": "Plan.DEMO_video_save_cv2",
+        "description": "Plan.DEMO_video_save_cv2",
+        "peekOfCode": "win_name = 'cv2'\ncv2.namedWindow(win_name, cv2.WINDOW_KEEPRATIO)\ncap = cv2.VideoCapture('./datasets/bilibili-av22642627-zebra.mp4')\nout = cv2.VideoWriter(\"output.avi\", cv2.VideoWriter_fourcc(*\"MJPG\"), 30, (640, 480))\n# fourcc = cv2.VideoWriter_fourcc(*'XVID')\n# out = cv2.VideoWriter('output.avi', fourcc, 20.0, (640, 480))\n# out = cv2.VideoWriter('output.avi', -1, 20.0, (640, 480))\ni = 0\nimg = np.random.randint(0, 255, (480, 640, 3)).astype('uint8')\nwhile cap.isOpened():",
+        "detail": "Plan.DEMO_video_save_cv2",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO_video_save_cv2 import win_name\n```\n\n```python\n\n\n```\n\n```python\nwin_name = 'cv2'\ncv2.namedWindow(win_name, cv2.WINDOW_KEEPRATIO)\ncap = cv2.VideoCapture('./datasets/bilibili-av22642627-zebra.mp4')\nout = cv2.VideoWriter(\"output.avi\", cv2.VideoWriter_fourcc(*\"MJPG\"), 30, (640, 480))\n# fourcc = cv2.VideoWriter_fourcc(*'XVID')\n# out = cv2.VideoWriter('output.avi', fourcc, 20.0, (640, 480))\n# out = cv2.VideoWriter('output.avi', -1, 20.0, (640, 480))\ni = 0\nimg = np.random.randint(0, 255, (480, 640, 3)).astype('uint8')\nwhile cap.isOpened():\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "cap",
+        "kind": 5,
+        "importPath": "Plan.DEMO_video_save_cv2",
+        "description": "Plan.DEMO_video_save_cv2",
+        "peekOfCode": "cap = cv2.VideoCapture('./datasets/bilibili-av22642627-zebra.mp4')\nout = cv2.VideoWriter(\"output.avi\", cv2.VideoWriter_fourcc(*\"MJPG\"), 30, (640, 480))\n# fourcc = cv2.VideoWriter_fourcc(*'XVID')\n# out = cv2.VideoWriter('output.avi', fourcc, 20.0, (640, 480))\n# out = cv2.VideoWriter('output.avi', -1, 20.0, (640, 480))\ni = 0\nimg = np.random.randint(0, 255, (480, 640, 3)).astype('uint8')\nwhile cap.isOpened():\n    is_opened, frame = cap.read()\n    if 833 < i < 1444:",
+        "detail": "Plan.DEMO_video_save_cv2",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO_video_save_cv2 import cap\n```\n\n```python\n\n\n```\n\n```python\ncap = cv2.VideoCapture('./datasets/bilibili-av22642627-zebra.mp4')\nout = cv2.VideoWriter(\"output.avi\", cv2.VideoWriter_fourcc(*\"MJPG\"), 30, (640, 480))\n# fourcc = cv2.VideoWriter_fourcc(*'XVID')\n# out = cv2.VideoWriter('output.avi', fourcc, 20.0, (640, 480))\n# out = cv2.VideoWriter('output.avi', -1, 20.0, (640, 480))\ni = 0\nimg = np.random.randint(0, 255, (480, 640, 3)).astype('uint8')\nwhile cap.isOpened():\n    is_opened, frame = cap.read()\n    if 833 < i < 1444:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "out",
+        "kind": 5,
+        "importPath": "Plan.DEMO_video_save_cv2",
+        "description": "Plan.DEMO_video_save_cv2",
+        "peekOfCode": "out = cv2.VideoWriter(\"output.avi\", cv2.VideoWriter_fourcc(*\"MJPG\"), 30, (640, 480))\n# fourcc = cv2.VideoWriter_fourcc(*'XVID')\n# out = cv2.VideoWriter('output.avi', fourcc, 20.0, (640, 480))\n# out = cv2.VideoWriter('output.avi', -1, 20.0, (640, 480))\ni = 0\nimg = np.random.randint(0, 255, (480, 640, 3)).astype('uint8')\nwhile cap.isOpened():\n    is_opened, frame = cap.read()\n    if 833 < i < 1444:\n        out.write(img)",
+        "detail": "Plan.DEMO_video_save_cv2",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO_video_save_cv2 import out\n```\n\n```python\n\n\n```\n\n```python\nout = cv2.VideoWriter(\"output.avi\", cv2.VideoWriter_fourcc(*\"MJPG\"), 30, (640, 480))\n# fourcc = cv2.VideoWriter_fourcc(*'XVID')\n# out = cv2.VideoWriter('output.avi', fourcc, 20.0, (640, 480))\n# out = cv2.VideoWriter('output.avi', -1, 20.0, (640, 480))\ni = 0\nimg = np.random.randint(0, 255, (480, 640, 3)).astype('uint8')\nwhile cap.isOpened():\n    is_opened, frame = cap.read()\n    if 833 < i < 1444:\n        out.write(img)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "Plan.DEMO_video_save_cv2",
+        "description": "Plan.DEMO_video_save_cv2",
+        "peekOfCode": "i = 0\nimg = np.random.randint(0, 255, (480, 640, 3)).astype('uint8')\nwhile cap.isOpened():\n    is_opened, frame = cap.read()\n    if 833 < i < 1444:\n        out.write(img)\n        out.write(cv2.resize(frame, (640, 480)).astype('uint8'))\n    cv2.imshow(win_name, frame)\n    print(i)\n    i += 1",
+        "detail": "Plan.DEMO_video_save_cv2",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO_video_save_cv2 import i\n```\n\n```python\n\n\n```\n\n```python\ni = 0\nimg = np.random.randint(0, 255, (480, 640, 3)).astype('uint8')\nwhile cap.isOpened():\n    is_opened, frame = cap.read()\n    if 833 < i < 1444:\n        out.write(img)\n        out.write(cv2.resize(frame, (640, 480)).astype('uint8'))\n    cv2.imshow(win_name, frame)\n    print(i)\n    i += 1\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": "Plan.DEMO_video_save_cv2",
+        "description": "Plan.DEMO_video_save_cv2",
+        "peekOfCode": "img = np.random.randint(0, 255, (480, 640, 3)).astype('uint8')\nwhile cap.isOpened():\n    is_opened, frame = cap.read()\n    if 833 < i < 1444:\n        out.write(img)\n        out.write(cv2.resize(frame, (640, 480)).astype('uint8'))\n    cv2.imshow(win_name, frame)\n    print(i)\n    i += 1\n    if cv2.waitKey(1) & 0xFF == ord('q'):",
+        "detail": "Plan.DEMO_video_save_cv2",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.DEMO_video_save_cv2 import img\n```\n\n```python\n\n\n```\n\n```python\nimg = np.random.randint(0, 255, (480, 640, 3)).astype('uint8')\nwhile cap.isOpened():\n    is_opened, frame = cap.read()\n    if 833 < i < 1444:\n        out.write(img)\n        out.write(cv2.resize(frame, (640, 480)).astype('uint8'))\n    cv2.imshow(win_name, frame)\n    print(i)\n    i += 1\n    if cv2.waitKey(1) & 0xFF == ord('q'):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "description": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "peekOfCode": "l = range(2 ** 22)\ntime0 = time.time()\na = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in filter(lambda x: bool(x % 2 == 0), l)]\nprint(\"%.4f\" % (time.time() - time0), len(a))",
+        "detail": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PERO_for_if__for_filter_lambda__list_filter_lambda import l\n```\n\n```python\n\n\n```\n\n```python\nl = range(2 ** 22)\ntime0 = time.time()\na = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in filter(lambda x: bool(x % 2 == 0), l)]\nprint(\"%.4f\" % (time.time() - time0), len(a))\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "time0",
+        "kind": 5,
+        "importPath": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "description": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "peekOfCode": "time0 = time.time()\na = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in filter(lambda x: bool(x % 2 == 0), l)]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()",
+        "detail": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PERO_for_if__for_filter_lambda__list_filter_lambda import time0\n```\n\n```python\n\n\n```\n\n```python\ntime0 = time.time()\na = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in filter(lambda x: bool(x % 2 == 0), l)]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "description": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "peekOfCode": "a = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in filter(lambda x: bool(x % 2 == 0), l)]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = list(filter(lambda x: bool(x % 2 == 0), l))",
+        "detail": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PERO_for_if__for_filter_lambda__list_filter_lambda import a\n```\n\n```python\n\n\n```\n\n```python\na = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in filter(lambda x: bool(x % 2 == 0), l)]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = list(filter(lambda x: bool(x % 2 == 0), l))\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "time0",
+        "kind": 5,
+        "importPath": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "description": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "peekOfCode": "time0 = time.time()\na = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in filter(lambda x: bool(x % 2 == 0), l)]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = list(filter(lambda x: bool(x % 2 == 0), l))\nprint(\"%.4f\" % (time.time() - time0), len(a))\n\"\"\"",
+        "detail": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PERO_for_if__for_filter_lambda__list_filter_lambda import time0\n```\n\n```python\n\n\n```\n\n```python\ntime0 = time.time()\na = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in filter(lambda x: bool(x % 2 == 0), l)]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = list(filter(lambda x: bool(x % 2 == 0), l))\nprint(\"%.4f\" % (time.time() - time0), len(a))\n\"\"\"\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "description": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "peekOfCode": "a = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in filter(lambda x: bool(x % 2 == 0), l)]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = list(filter(lambda x: bool(x % 2 == 0), l))\nprint(\"%.4f\" % (time.time() - time0), len(a))\n\"\"\"\n0.5584 2097152",
+        "detail": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PERO_for_if__for_filter_lambda__list_filter_lambda import a\n```\n\n```python\n\n\n```\n\n```python\na = [i for i in l if i % 2 == 0]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = [i for i in filter(lambda x: bool(x % 2 == 0), l)]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = list(filter(lambda x: bool(x % 2 == 0), l))\nprint(\"%.4f\" % (time.time() - time0), len(a))\n\"\"\"\n0.5584 2097152\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "time0",
+        "kind": 5,
+        "importPath": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "description": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "peekOfCode": "time0 = time.time()\na = [i for i in filter(lambda x: bool(x % 2 == 0), l)]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = list(filter(lambda x: bool(x % 2 == 0), l))\nprint(\"%.4f\" % (time.time() - time0), len(a))\n\"\"\"\n0.5584 2097152\n0.5123 2097152 --------- [for if]\n1.6361 2097152",
+        "detail": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PERO_for_if__for_filter_lambda__list_filter_lambda import time0\n```\n\n```python\n\n\n```\n\n```python\ntime0 = time.time()\na = [i for i in filter(lambda x: bool(x % 2 == 0), l)]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = list(filter(lambda x: bool(x % 2 == 0), l))\nprint(\"%.4f\" % (time.time() - time0), len(a))\n\"\"\"\n0.5584 2097152\n0.5123 2097152 --------- [for if]\n1.6361 2097152\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "description": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "peekOfCode": "a = [i for i in filter(lambda x: bool(x % 2 == 0), l)]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = list(filter(lambda x: bool(x % 2 == 0), l))\nprint(\"%.4f\" % (time.time() - time0), len(a))\n\"\"\"\n0.5584 2097152\n0.5123 2097152 --------- [for if]\n1.6361 2097152\n1.5931 2097152",
+        "detail": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PERO_for_if__for_filter_lambda__list_filter_lambda import a\n```\n\n```python\n\n\n```\n\n```python\na = [i for i in filter(lambda x: bool(x % 2 == 0), l)]\nprint(\"%.4f\" % (time.time() - time0), len(a))\ntime0 = time.time()\na = list(filter(lambda x: bool(x % 2 == 0), l))\nprint(\"%.4f\" % (time.time() - time0), len(a))\n\"\"\"\n0.5584 2097152\n0.5123 2097152 --------- [for if]\n1.6361 2097152\n1.5931 2097152\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "time0",
+        "kind": 5,
+        "importPath": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "description": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "peekOfCode": "time0 = time.time()\na = list(filter(lambda x: bool(x % 2 == 0), l))\nprint(\"%.4f\" % (time.time() - time0), len(a))\n\"\"\"\n0.5584 2097152\n0.5123 2097152 --------- [for if]\n1.6361 2097152\n1.5931 2097152\n\"\"\"",
+        "detail": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PERO_for_if__for_filter_lambda__list_filter_lambda import time0\n```\n\n```python\n\n\n```\n\n```python\ntime0 = time.time()\na = list(filter(lambda x: bool(x % 2 == 0), l))\nprint(\"%.4f\" % (time.time() - time0), len(a))\n\"\"\"\n0.5584 2097152\n0.5123 2097152 --------- [for if]\n1.6361 2097152\n1.5931 2097152\n\"\"\"\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "description": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "peekOfCode": "a = list(filter(lambda x: bool(x % 2 == 0), l))\nprint(\"%.4f\" % (time.time() - time0), len(a))\n\"\"\"\n0.5584 2097152\n0.5123 2097152 --------- [for if]\n1.6361 2097152\n1.5931 2097152\n\"\"\"",
+        "detail": "Plan.PERO_for_if__for_filter_lambda__list_filter_lambda",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PERO_for_if__for_filter_lambda__list_filter_lambda import a\n```\n\n```python\n\n\n```\n\n```python\na = list(filter(lambda x: bool(x % 2 == 0), l))\nprint(\"%.4f\" % (time.time() - time0), len(a))\n\"\"\"\n0.5584 2097152\n0.5123 2097152 --------- [for if]\n1.6361 2097152\n1.5931 2097152\n\"\"\"\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Plan.PERO_if_in_dict.keys_or_try_KeyError",
+        "description": "Plan.PERO_if_in_dict.keys_or_try_KeyError",
+        "peekOfCode": "def main():\n    d = dict(zip(range(5431234), range(5431234)))\n    d['N/A'] = 0\n    timer = time.time()\n    for i in range(12341234):\n        # if i in d.keys():  # 1.8s\n        #     d[i] += 1\n        # else:\n        #     d['N/A'] += 1\n        try:  # 2.3s",
+        "detail": "Plan.PERO_if_in_dict.keys_or_try_KeyError",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PERO_if_in_dict.keys_or_try_KeyError import main\n```\n\n```python\n\n\n```\n\n```python\ndef main():\n    d = dict(zip(range(5431234), range(5431234)))\n    d['N/A'] = 0\n    timer = time.time()\n    for i in range(12341234):\n        # if i in d.keys():  # 1.8s\n        #     d[i] += 1\n        # else:\n        #     d['N/A'] += 1\n        try:  # 2.3s\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "loop_times",
+        "kind": 5,
+        "importPath": "Plan.PERO_np.arange_np.zeros_list",
+        "description": "Plan.PERO_np.arange_np.zeros_list",
+        "peekOfCode": "loop_times = 2 ** 16\nfor script in [\n    \"[0 for _ in range(n)]\",\n    \"[i for i in range(n)]\",\n    \"np.zeros(n, np.int)\",\n    \"np.arange(n)\",\n]:\n    print(timeit.repeat(stmt=script, setup=\"import numpy as np;n = 2 ** 9;\",\n                        repeat=2, number=loop_times))\n\"\"\"",
+        "detail": "Plan.PERO_np.arange_np.zeros_list",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PERO_np.arange_np.zeros_list import loop_times\n```\n\n```python\n\n\n```\n\n```python\nloop_times = 2 ** 16\nfor script in [\n    \"[0 for _ in range(n)]\",\n    \"[i for i in range(n)]\",\n    \"np.zeros(n, np.int)\",\n    \"np.arange(n)\",\n]:\n    print(timeit.repeat(stmt=script, setup=\"import numpy as np;n = 2 ** 9;\",\n                        repeat=2, number=loop_times))\n\"\"\"\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "Plan.PLAN_ftp_download",
+        "description": "Plan.PLAN_ftp_download",
+        "peekOfCode": "def run():\n    ftp_url = 'ftp.nnvl.noaa.gov'\n    dst_dir = os.path.join('f:', ftp_url)\n    os.mkdir(dst_dir) if not os.path.exists(dst_dir) else None\n    with FTP('ftp.nnvl.noaa.gov') as ftp:\n        ftp.login()\n        ftp.cwd('/GOES/GER/')\n        dst_dirs = set([f for f in os.listdir(dst_dir) if f[-4:] == '.jpg'])\n        src_dirs = set([f for f in ftp.nlst() if f[-4:] == '.jpg'])  # filter\n        src_dirs = src_dirs - dst_dirs  # check local",
+        "detail": "Plan.PLAN_ftp_download",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PLAN_ftp_download import run\n```\n\n```python\n\n\n```\n\n```python\ndef run():\n    ftp_url = 'ftp.nnvl.noaa.gov'\n    dst_dir = os.path.join('f:', ftp_url)\n    os.mkdir(dst_dir) if not os.path.exists(dst_dir) else None\n    with FTP('ftp.nnvl.noaa.gov') as ftp:\n        ftp.login()\n        ftp.cwd('/GOES/GER/')\n        dst_dirs = set([f for f in os.listdir(dst_dir) if f[-4:] == '.jpg'])\n        src_dirs = set([f for f in ftp.nlst() if f[-4:] == '.jpg'])  # filter\n        src_dirs = src_dirs - dst_dirs  # check local\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "img_src",
+        "kind": 5,
+        "importPath": "Plan.PLAN_image_anticolckwise_rotation",
+        "description": "Plan.PLAN_image_anticolckwise_rotation",
+        "peekOfCode": "img_src = input('image_src_path:')\nimg_dst = input('image_dst_path:')\nrotation_time = int(input('anti-clockwise rotation 90 degree\\n how many times?'))\nimg_name_l = [os.path.join(img_src, f) for f in os.listdir(img_src)]\nfor img_name in img_name_l:\n    img = cv2.imread(os.path.join(img_src, img_name))\n    img = np.rot90(img, k=rotation_time)  # anti-clockwise rotation\n    cv2.imwrite(os.path.join(img_dst, img_name), img)",
+        "detail": "Plan.PLAN_image_anticolckwise_rotation",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PLAN_image_anticolckwise_rotation import img_src\n```\n\n```python\n\n\n```\n\n```python\nimg_src = input('image_src_path:')\nimg_dst = input('image_dst_path:')\nrotation_time = int(input('anti-clockwise rotation 90 degree\\n how many times?'))\nimg_name_l = [os.path.join(img_src, f) for f in os.listdir(img_src)]\nfor img_name in img_name_l:\n    img = cv2.imread(os.path.join(img_src, img_name))\n    img = np.rot90(img, k=rotation_time)  # anti-clockwise rotation\n    cv2.imwrite(os.path.join(img_dst, img_name), img)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "img_dst",
+        "kind": 5,
+        "importPath": "Plan.PLAN_image_anticolckwise_rotation",
+        "description": "Plan.PLAN_image_anticolckwise_rotation",
+        "peekOfCode": "img_dst = input('image_dst_path:')\nrotation_time = int(input('anti-clockwise rotation 90 degree\\n how many times?'))\nimg_name_l = [os.path.join(img_src, f) for f in os.listdir(img_src)]\nfor img_name in img_name_l:\n    img = cv2.imread(os.path.join(img_src, img_name))\n    img = np.rot90(img, k=rotation_time)  # anti-clockwise rotation\n    cv2.imwrite(os.path.join(img_dst, img_name), img)",
+        "detail": "Plan.PLAN_image_anticolckwise_rotation",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PLAN_image_anticolckwise_rotation import img_dst\n```\n\n```python\n\n\n```\n\n```python\nimg_dst = input('image_dst_path:')\nrotation_time = int(input('anti-clockwise rotation 90 degree\\n how many times?'))\nimg_name_l = [os.path.join(img_src, f) for f in os.listdir(img_src)]\nfor img_name in img_name_l:\n    img = cv2.imread(os.path.join(img_src, img_name))\n    img = np.rot90(img, k=rotation_time)  # anti-clockwise rotation\n    cv2.imwrite(os.path.join(img_dst, img_name), img)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "rotation_time",
+        "kind": 5,
+        "importPath": "Plan.PLAN_image_anticolckwise_rotation",
+        "description": "Plan.PLAN_image_anticolckwise_rotation",
+        "peekOfCode": "rotation_time = int(input('anti-clockwise rotation 90 degree\\n how many times?'))\nimg_name_l = [os.path.join(img_src, f) for f in os.listdir(img_src)]\nfor img_name in img_name_l:\n    img = cv2.imread(os.path.join(img_src, img_name))\n    img = np.rot90(img, k=rotation_time)  # anti-clockwise rotation\n    cv2.imwrite(os.path.join(img_dst, img_name), img)",
+        "detail": "Plan.PLAN_image_anticolckwise_rotation",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PLAN_image_anticolckwise_rotation import rotation_time\n```\n\n```python\n\n\n```\n\n```python\nrotation_time = int(input('anti-clockwise rotation 90 degree\\n how many times?'))\nimg_name_l = [os.path.join(img_src, f) for f in os.listdir(img_src)]\nfor img_name in img_name_l:\n    img = cv2.imread(os.path.join(img_src, img_name))\n    img = np.rot90(img, k=rotation_time)  # anti-clockwise rotation\n    cv2.imwrite(os.path.join(img_dst, img_name), img)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "img_name_l",
+        "kind": 5,
+        "importPath": "Plan.PLAN_image_anticolckwise_rotation",
+        "description": "Plan.PLAN_image_anticolckwise_rotation",
+        "peekOfCode": "img_name_l = [os.path.join(img_src, f) for f in os.listdir(img_src)]\nfor img_name in img_name_l:\n    img = cv2.imread(os.path.join(img_src, img_name))\n    img = np.rot90(img, k=rotation_time)  # anti-clockwise rotation\n    cv2.imwrite(os.path.join(img_dst, img_name), img)",
+        "detail": "Plan.PLAN_image_anticolckwise_rotation",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.PLAN_image_anticolckwise_rotation import img_name_l\n```\n\n```python\n\n\n```\n\n```python\nimg_name_l = [os.path.join(img_src, f) for f in os.listdir(img_src)]\nfor img_name in img_name_l:\n    img = cv2.imread(os.path.join(img_src, img_name))\n    img = np.rot90(img, k=rotation_time)  # anti-clockwise rotation\n    cv2.imwrite(os.path.join(img_dst, img_name), img)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Global",
+        "kind": 6,
+        "importPath": "Plan.TUTO_mnist_1layers",
+        "description": "Plan.TUTO_mnist_1layers",
+        "peekOfCode": "class Global(object):  # Global Variables\n    batch_size = 500\n    batch_epoch = 55000 // batch_size  # mnist train data is 55000\n    train_epoch = 2 ** 5  # accuracy in test_set nearly 90%, 15s, (Intel i3-3110M, GTX 720M)\n    data_dir = 'MNIST_data'\n    txt_path = 'tf_training_info.txt'\n    model_save_dir = 'mnist_model'\n    model_save_name = 'mnist_model'\n    model_save_path = os.path.join(model_save_dir, model_save_name)\nG = Global()",
+        "detail": "Plan.TUTO_mnist_1layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_1layers import Global\n```\n\n```python\n\n\n```\n\n```python\nclass Global(object):  # Global Variables\n    batch_size = 500\n    batch_epoch = 55000 // batch_size  # mnist train data is 55000\n    train_epoch = 2 ** 5  # accuracy in test_set nearly 90%, 15s, (Intel i3-3110M, GTX 720M)\n    data_dir = 'MNIST_data'\n    txt_path = 'tf_training_info.txt'\n    model_save_dir = 'mnist_model'\n    model_save_name = 'mnist_model'\n    model_save_path = os.path.join(model_save_dir, model_save_name)\nG = Global()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_mnist_data",
+        "kind": 2,
+        "importPath": "Plan.TUTO_mnist_1layers",
+        "description": "Plan.TUTO_mnist_1layers",
+        "peekOfCode": "def get_mnist_data(data_dir='MNIST_data'):\n    from tensorflow.examples.tutorials.mnist import input_data\n    mnist = input_data.read_data_sets(data_dir, one_hot=True)\n    train_image = mnist.train.images\n    train_label = mnist.train.labels\n    train_image = train_image[:G.batch_epoch * G.batch_size]\n    train_label = train_label[:G.batch_epoch * G.batch_size]\n    test_image = mnist.test.images\n    test_label = mnist.test.labels\n    data_para = (train_image, train_label, test_image, test_label)",
+        "detail": "Plan.TUTO_mnist_1layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_1layers import get_mnist_data\n```\n\n```python\n\n\n```\n\n```python\ndef get_mnist_data(data_dir='MNIST_data'):\n    from tensorflow.examples.tutorials.mnist import input_data\n    mnist = input_data.read_data_sets(data_dir, one_hot=True)\n    train_image = mnist.train.images\n    train_label = mnist.train.labels\n    train_image = train_image[:G.batch_epoch * G.batch_size]\n    train_label = train_label[:G.batch_epoch * G.batch_size]\n    test_image = mnist.test.images\n    test_label = mnist.test.labels\n    data_para = (train_image, train_label, test_image, test_label)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "init_session",
+        "kind": 2,
+        "importPath": "Plan.TUTO_mnist_1layers",
+        "description": "Plan.TUTO_mnist_1layers",
+        "peekOfCode": "def init_session():\n    image = tf.placeholder(tf.float32, [None, 784], name='Input')  # img: 28x28\n    label = tf.placeholder(tf.float32, [None, 10], name='Label')  # 0~9 == 10 classes\n    w1 = tf.get_variable(shape=[784, 10], name='Weights1')\n    b1 = tf.get_variable(shape=[10], name='Bias1')\n    pred = tf.nn.softmax(tf.matmul(image, w1) + b1)\n    loss = tf.reduce_mean(tf.nn.sigmoid_cross_entropy_with_logits(logits=pred, labels=label))  # high accuracy\n    optimizer = tf.train.AdamOptimizer().minimize(loss)\n    sess_para = (image, label, pred, loss, optimizer)\n    return sess_para",
+        "detail": "Plan.TUTO_mnist_1layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_1layers import init_session\n```\n\n```python\n\n\n```\n\n```python\ndef init_session():\n    image = tf.placeholder(tf.float32, [None, 784], name='Input')  # img: 28x28\n    label = tf.placeholder(tf.float32, [None, 10], name='Label')  # 0~9 == 10 classes\n    w1 = tf.get_variable(shape=[784, 10], name='Weights1')\n    b1 = tf.get_variable(shape=[10], name='Bias1')\n    pred = tf.nn.softmax(tf.matmul(image, w1) + b1)\n    loss = tf.reduce_mean(tf.nn.sigmoid_cross_entropy_with_logits(logits=pred, labels=label))  # high accuracy\n    optimizer = tf.train.AdamOptimizer().minimize(loss)\n    sess_para = (image, label, pred, loss, optimizer)\n    return sess_para\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "train_session",
+        "kind": 2,
+        "importPath": "Plan.TUTO_mnist_1layers",
+        "description": "Plan.TUTO_mnist_1layers",
+        "peekOfCode": "def train_session(sess_para, data_para):\n    (train_image, train_label, test_image, test_label) = data_para\n    (image, label, pred, loss, optimizer) = sess_para\n    shutil.rmtree(G.model_save_dir, ignore_errors=True)\n    logs = open(G.txt_path, 'a')\n    sess = tf.Session()\n    sess.run(tf.global_variables_initializer())\n    '''train loop init'''\n    predict, summary, feed_train_label = None, None, None\n    time0 = time1 = time.time()",
+        "detail": "Plan.TUTO_mnist_1layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_1layers import train_session\n```\n\n```python\n\n\n```\n\n```python\ndef train_session(sess_para, data_para):\n    (train_image, train_label, test_image, test_label) = data_para\n    (image, label, pred, loss, optimizer) = sess_para\n    shutil.rmtree(G.model_save_dir, ignore_errors=True)\n    logs = open(G.txt_path, 'a')\n    sess = tf.Session()\n    sess.run(tf.global_variables_initializer())\n    '''train loop init'''\n    predict, summary, feed_train_label = None, None, None\n    time0 = time1 = time.time()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "eval_session",
+        "kind": 2,
+        "importPath": "Plan.TUTO_mnist_1layers",
+        "description": "Plan.TUTO_mnist_1layers",
+        "peekOfCode": "def eval_session(sess_para, data_para):\n    (train_image, train_label, test_image, test_label) = data_para\n    (image, label, pred, loss, optimizer) = sess_para\n    sess = tf.Session()\n    tf.train.Saver().restore(sess, G.model_save_path)\n    '''evaluation'''\n    for print_info, feed_image, feed_label in [\n        ['Train_set', train_image[:len(test_image)], train_label[:len(test_label)]],\n        ['Test_set ', test_image, test_label],\n    ]:",
+        "detail": "Plan.TUTO_mnist_1layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_1layers import eval_session\n```\n\n```python\n\n\n```\n\n```python\ndef eval_session(sess_para, data_para):\n    (train_image, train_label, test_image, test_label) = data_para\n    (image, label, pred, loss, optimizer) = sess_para\n    sess = tf.Session()\n    tf.train.Saver().restore(sess, G.model_save_path)\n    '''evaluation'''\n    for print_info, feed_image, feed_label in [\n        ['Train_set', train_image[:len(test_image)], train_label[:len(test_label)]],\n        ['Test_set ', test_image, test_label],\n    ]:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "real_time_session",
+        "kind": 2,
+        "importPath": "Plan.TUTO_mnist_1layers",
+        "description": "Plan.TUTO_mnist_1layers",
+        "peekOfCode": "def real_time_session(sess_para, window_name='cv2_mouse_paint', size=16):\n    (image, label, pred, loss, optimizer) = sess_para\n    feed_dict = dict()\n    feed_dict[image] = np.array([])\n    sess = tf.Session()\n    tf.train.Saver().restore(sess, G.model_save_path)\n    def paint_brush(event, x, y, flags, param):  # mouse callback function\n        global ix, iy, drawing\n        if event == cv2.EVENT_LBUTTONDOWN:\n            ix, iy = x, y",
+        "detail": "Plan.TUTO_mnist_1layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_1layers import real_time_session\n```\n\n```python\n\n\n```\n\n```python\ndef real_time_session(sess_para, window_name='cv2_mouse_paint', size=16):\n    (image, label, pred, loss, optimizer) = sess_para\n    feed_dict = dict()\n    feed_dict[image] = np.array([])\n    sess = tf.Session()\n    tf.train.Saver().restore(sess, G.model_save_path)\n    def paint_brush(event, x, y, flags, param):  # mouse callback function\n        global ix, iy, drawing\n        if event == cv2.EVENT_LBUTTONDOWN:\n            ix, iy = x, y\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "draw_plot",
+        "kind": 2,
+        "importPath": "Plan.TUTO_mnist_1layers",
+        "description": "Plan.TUTO_mnist_1layers",
+        "peekOfCode": "def draw_plot(ary_path):\n    import matplotlib.pyplot as plt\n    ary = np.loadtxt(ary_path)\n    x_pts = [i for i in range(ary.shape[0])]\n    y_pts = ary\n    plt.plot(x_pts, y_pts, linestyle='dashed', marker='x', markersize=3)\n    plt.show(1.943)\ndef mouse_paint(window_name='cv2_mouse_paint', size=16):\n    def paint_brush(event, x, y, flags, param):  # mouse callback function\n        global ix, iy, drawing",
+        "detail": "Plan.TUTO_mnist_1layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_1layers import draw_plot\n```\n\n```python\n\n\n```\n\n```python\ndef draw_plot(ary_path):\n    import matplotlib.pyplot as plt\n    ary = np.loadtxt(ary_path)\n    x_pts = [i for i in range(ary.shape[0])]\n    y_pts = ary\n    plt.plot(x_pts, y_pts, linestyle='dashed', marker='x', markersize=3)\n    plt.show(1.943)\ndef mouse_paint(window_name='cv2_mouse_paint', size=16):\n    def paint_brush(event, x, y, flags, param):  # mouse callback function\n        global ix, iy, drawing\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "mouse_paint",
+        "kind": 2,
+        "importPath": "Plan.TUTO_mnist_1layers",
+        "description": "Plan.TUTO_mnist_1layers",
+        "peekOfCode": "def mouse_paint(window_name='cv2_mouse_paint', size=16):\n    def paint_brush(event, x, y, flags, param):  # mouse callback function\n        global ix, iy, drawing\n        if event == cv2.EVENT_LBUTTONDOWN:\n            ix, iy = x, y\n            drawing = True\n        elif event == cv2.EVENT_MOUSEMOVE and 'drawing' in globals():\n            # 'var_name' in globals; learning from: https://stackoverflow.com/a/1592581/9293137\n            cv2.line(img, (ix, iy), (x, y), 255, size)\n            ix, iy = x, y",
+        "detail": "Plan.TUTO_mnist_1layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_1layers import mouse_paint\n```\n\n```python\n\n\n```\n\n```python\ndef mouse_paint(window_name='cv2_mouse_paint', size=16):\n    def paint_brush(event, x, y, flags, param):  # mouse callback function\n        global ix, iy, drawing\n        if event == cv2.EVENT_LBUTTONDOWN:\n            ix, iy = x, y\n            drawing = True\n        elif event == cv2.EVENT_MOUSEMOVE and 'drawing' in globals():\n            # 'var_name' in globals; learning from: https://stackoverflow.com/a/1592581/9293137\n            cv2.line(img, (ix, iy), (x, y), 255, size)\n            ix, iy = x, y\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "Plan.TUTO_mnist_1layers",
+        "description": "Plan.TUTO_mnist_1layers",
+        "peekOfCode": "def run():\n    # data_para = get_mnist_data(G.data_dir)\n    sess_para = init_session()\n    # train_session(sess_para, data_para)\n    # eval_session(sess_para, data_para)\n    real_time_session(sess_para)\nif __name__ == '__main__':\n    run()",
+        "detail": "Plan.TUTO_mnist_1layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_1layers import run\n```\n\n```python\n\n\n```\n\n```python\ndef run():\n    # data_para = get_mnist_data(G.data_dir)\n    sess_para = init_session()\n    # train_session(sess_para, data_para)\n    # eval_session(sess_para, data_para)\n    real_time_session(sess_para)\nif __name__ == '__main__':\n    run()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os.environ[\"TF_CPP_MIN_LOG_LEVEL\"]",
+        "kind": 5,
+        "importPath": "Plan.TUTO_mnist_1layers",
+        "description": "Plan.TUTO_mnist_1layers",
+        "peekOfCode": "os.environ[\"TF_CPP_MIN_LOG_LEVEL\"] = '1'  # low the warning level\n\"\"\"\nSource: Aymeric Damien: cnn_mnist.py\n        https://github.com/aymericdamien/TensorFlow-Examples/\nModify: Yonv1943 2018-07-13 13:30:40\n2018-07-13 Stable, complete \n2018-07-13 Add TensorBoard GRAPHS HISTOGRAM\n2018-07-14 Add two dropout layer, lift accuracy to 99.8%>= in test_set\n2018-07-14 Remove accuracy from TensorFLow Calculate\n2018-07-14 Change to three layers network, not softmax ",
+        "detail": "Plan.TUTO_mnist_1layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_1layers import os.environ[\"TF_CPP_MIN_LOG_LEVEL\"]\n```\n\n```python\n\n\n```\n\n```python\nos.environ[\"TF_CPP_MIN_LOG_LEVEL\"] = '1'  # low the warning level\n\"\"\"\nSource: Aymeric Damien: cnn_mnist.py\n        https://github.com/aymericdamien/TensorFlow-Examples/\nModify: Yonv1943 2018-07-13 13:30:40\n2018-07-13 Stable, complete \n2018-07-13 Add TensorBoard GRAPHS HISTOGRAM\n2018-07-14 Add two dropout layer, lift accuracy to 99.8%>= in test_set\n2018-07-14 Remove accuracy from TensorFLow Calculate\n2018-07-14 Change to three layers network, not softmax \n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "G",
+        "kind": 5,
+        "importPath": "Plan.TUTO_mnist_1layers",
+        "description": "Plan.TUTO_mnist_1layers",
+        "peekOfCode": "G = Global()\ndef get_mnist_data(data_dir='MNIST_data'):\n    from tensorflow.examples.tutorials.mnist import input_data\n    mnist = input_data.read_data_sets(data_dir, one_hot=True)\n    train_image = mnist.train.images\n    train_label = mnist.train.labels\n    train_image = train_image[:G.batch_epoch * G.batch_size]\n    train_label = train_label[:G.batch_epoch * G.batch_size]\n    test_image = mnist.test.images\n    test_label = mnist.test.labels",
+        "detail": "Plan.TUTO_mnist_1layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_1layers import G\n```\n\n```python\n\n\n```\n\n```python\nG = Global()\ndef get_mnist_data(data_dir='MNIST_data'):\n    from tensorflow.examples.tutorials.mnist import input_data\n    mnist = input_data.read_data_sets(data_dir, one_hot=True)\n    train_image = mnist.train.images\n    train_label = mnist.train.labels\n    train_image = train_image[:G.batch_epoch * G.batch_size]\n    train_label = train_label[:G.batch_epoch * G.batch_size]\n    test_image = mnist.test.images\n    test_label = mnist.test.labels\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Global",
+        "kind": 6,
+        "importPath": "Plan.TUTO_mnist_3layers",
+        "description": "Plan.TUTO_mnist_3layers",
+        "peekOfCode": "class Global(object):  # Global Variables\n    # training parameters\n    batch_size = 5500  # 2**13\n    batch_epoch = 55000 // batch_size  # mnist train data is 55000\n    train_epoch = 2 ** 0  # accuracy in test_set 98.56%\n    save_gap = 2 ** 4\n    data_dir = 'MNIST_data'\n    model_name = 'tf_cnn_mnist_model'\n    model_path = os.path.join(model_name, model_name)\n    txt_path = os.path.join(model_name, 'tf_training_info.txt')",
+        "detail": "Plan.TUTO_mnist_3layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_3layers import Global\n```\n\n```python\n\n\n```\n\n```python\nclass Global(object):  # Global Variables\n    # training parameters\n    batch_size = 5500  # 2**13\n    batch_epoch = 55000 // batch_size  # mnist train data is 55000\n    train_epoch = 2 ** 0  # accuracy in test_set 98.56%\n    save_gap = 2 ** 4\n    data_dir = 'MNIST_data'\n    model_name = 'tf_cnn_mnist_model'\n    model_path = os.path.join(model_name, model_name)\n    txt_path = os.path.join(model_name, 'tf_training_info.txt')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_mnist_data",
+        "kind": 2,
+        "importPath": "Plan.TUTO_mnist_3layers",
+        "description": "Plan.TUTO_mnist_3layers",
+        "peekOfCode": "def get_mnist_data(data_dir='MNIST_data'):\n    from tensorflow.examples.tutorials.mnist import input_data\n    mnist = input_data.read_data_sets(data_dir, one_hot=True)\n    train_image = mnist.train.images\n    train_label = mnist.train.labels\n    train_image = train_image[:G.batch_epoch * G.batch_size]\n    train_label = train_label[:G.batch_epoch * G.batch_size]\n    test_image = mnist.test.images\n    test_label = mnist.test.labels\n    data_para = (train_image, train_label, test_image, test_label)",
+        "detail": "Plan.TUTO_mnist_3layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_3layers import get_mnist_data\n```\n\n```python\n\n\n```\n\n```python\ndef get_mnist_data(data_dir='MNIST_data'):\n    from tensorflow.examples.tutorials.mnist import input_data\n    mnist = input_data.read_data_sets(data_dir, one_hot=True)\n    train_image = mnist.train.images\n    train_label = mnist.train.labels\n    train_image = train_image[:G.batch_epoch * G.batch_size]\n    train_label = train_label[:G.batch_epoch * G.batch_size]\n    test_image = mnist.test.images\n    test_label = mnist.test.labels\n    data_para = (train_image, train_label, test_image, test_label)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_saver__init_load_model",
+        "kind": 2,
+        "importPath": "Plan.TUTO_mnist_3layers",
+        "description": "Plan.TUTO_mnist_3layers",
+        "peekOfCode": "def get_saver__init_load_model(sess):\n    saver = tf.train.Saver()\n    if os.path.exists(os.path.join(G.model_name, 'checkpoint')):\n        saver.restore(sess, G.model_path)\n        print(\"|Load:\", G.model_path)\n    else:\n        sess.run(tf.global_variables_initializer())\n        print(\"|Init:\", G.model_path)\n    return saver\ndef init_session():",
+        "detail": "Plan.TUTO_mnist_3layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_3layers import get_saver__init_load_model\n```\n\n```python\n\n\n```\n\n```python\ndef get_saver__init_load_model(sess):\n    saver = tf.train.Saver()\n    if os.path.exists(os.path.join(G.model_name, 'checkpoint')):\n        saver.restore(sess, G.model_path)\n        print(\"|Load:\", G.model_path)\n    else:\n        sess.run(tf.global_variables_initializer())\n        print(\"|Init:\", G.model_path)\n    return saver\ndef init_session():\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "init_session",
+        "kind": 2,
+        "importPath": "Plan.TUTO_mnist_3layers",
+        "description": "Plan.TUTO_mnist_3layers",
+        "peekOfCode": "def init_session():\n    image = tf.placeholder(tf.float32, [None, 784], name='Input')  # img: 28x28\n    label = tf.placeholder(tf.float32, [None, 10], name='Label')  # 0~9 == 10 classes\n    keep_prob0 = tf.placeholder(dtype=tf.float32, shape=[], name='Keep_prob0')  # dropout in input\n    keep_prob1 = tf.placeholder(dtype=tf.float32, shape=[], name='Keep_prob1')  # dropout in hidden\n    acc = tf.placeholder(tf.float32, [], name='Accuracy')  # let accuracy show in TensorBoard\n    with tf.name_scope('Layer_Input'):\n        w1 = tf.get_variable(shape=[784, 388], name='Weights1')\n        b1 = tf.get_variable(shape=[388], name='Bias1')\n    layer1 = tf.nn.dropout(image, keep_prob0)  # 0.8~1.0 for input layer",
+        "detail": "Plan.TUTO_mnist_3layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_3layers import init_session\n```\n\n```python\n\n\n```\n\n```python\ndef init_session():\n    image = tf.placeholder(tf.float32, [None, 784], name='Input')  # img: 28x28\n    label = tf.placeholder(tf.float32, [None, 10], name='Label')  # 0~9 == 10 classes\n    keep_prob0 = tf.placeholder(dtype=tf.float32, shape=[], name='Keep_prob0')  # dropout in input\n    keep_prob1 = tf.placeholder(dtype=tf.float32, shape=[], name='Keep_prob1')  # dropout in hidden\n    acc = tf.placeholder(tf.float32, [], name='Accuracy')  # let accuracy show in TensorBoard\n    with tf.name_scope('Layer_Input'):\n        w1 = tf.get_variable(shape=[784, 388], name='Weights1')\n        b1 = tf.get_variable(shape=[388], name='Bias1')\n    layer1 = tf.nn.dropout(image, keep_prob0)  # 0.8~1.0 for input layer\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "train_session",
+        "kind": 2,
+        "importPath": "Plan.TUTO_mnist_3layers",
+        "description": "Plan.TUTO_mnist_3layers",
+        "peekOfCode": "def train_session(sess_para, data_para, save_gap):\n    (train_image, train_label, test_image, test_label) = data_para\n    (image, label, keep_prob0, keep_prob1, pred, loss, acc, optimizer, sum_op) = sess_para\n    previous_train_epoch = len(np.loadtxt(G.txt_path)) if os.path.exists(G.txt_path) else 0\n    print()\n    logs = open(G.txt_path, 'a')\n    sess = tf.Session()\n    saver = get_saver__init_load_model(sess)\n    sum_writer = tf.summary.FileWriter(G.logs_dir, graph=tf.get_default_graph())  # graph='' show the GRAPHS\n    '''train loop init'''",
+        "detail": "Plan.TUTO_mnist_3layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_3layers import train_session\n```\n\n```python\n\n\n```\n\n```python\ndef train_session(sess_para, data_para, save_gap):\n    (train_image, train_label, test_image, test_label) = data_para\n    (image, label, keep_prob0, keep_prob1, pred, loss, acc, optimizer, sum_op) = sess_para\n    previous_train_epoch = len(np.loadtxt(G.txt_path)) if os.path.exists(G.txt_path) else 0\n    print()\n    logs = open(G.txt_path, 'a')\n    sess = tf.Session()\n    saver = get_saver__init_load_model(sess)\n    sum_writer = tf.summary.FileWriter(G.logs_dir, graph=tf.get_default_graph())  # graph='' show the GRAPHS\n    '''train loop init'''\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "eval_session",
+        "kind": 2,
+        "importPath": "Plan.TUTO_mnist_3layers",
+        "description": "Plan.TUTO_mnist_3layers",
+        "peekOfCode": "def eval_session(sess_para, data_para):\n    (train_image, train_label, test_image, test_label) = data_para\n    (image, label, keep_prob0, keep_prob1, pred, loss, acc, optimizer, sum_op) = sess_para\n    sess = tf.Session()\n    get_saver__init_load_model(sess)\n    with sess.as_default():\n        for print_info, feed_image, feed_label in [\n            ['Train_set', train_image[:len(test_image)], train_label[:len(test_label)]],\n            ['Test_set ', test_image, test_label],\n        ]:",
+        "detail": "Plan.TUTO_mnist_3layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_3layers import eval_session\n```\n\n```python\n\n\n```\n\n```python\ndef eval_session(sess_para, data_para):\n    (train_image, train_label, test_image, test_label) = data_para\n    (image, label, keep_prob0, keep_prob1, pred, loss, acc, optimizer, sum_op) = sess_para\n    sess = tf.Session()\n    get_saver__init_load_model(sess)\n    with sess.as_default():\n        for print_info, feed_image, feed_label in [\n            ['Train_set', train_image[:len(test_image)], train_label[:len(test_label)]],\n            ['Test_set ', test_image, test_label],\n        ]:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "draw_plot",
+        "kind": 2,
+        "importPath": "Plan.TUTO_mnist_3layers",
+        "description": "Plan.TUTO_mnist_3layers",
+        "peekOfCode": "def draw_plot(ary_path):\n    import matplotlib.pyplot as plt\n    ary = np.loadtxt(ary_path)\n    ary = ary[:, np.newaxis] if len(ary.shape) == 1 else ary\n    x_pts = [i for i in range(ary.shape[0])]\n    for i in range(ary.shape[1]):\n        y_pts = ary[:, i]\n        print(\"|min: %6.2f |max: %6.2f\" % (np.min(y_pts), np.max(y_pts)))\n        y_pts /= np.linalg.norm(y_pts)\n        plt.plot(x_pts, y_pts, linestyle='dashed', marker='x', markersize=3)",
+        "detail": "Plan.TUTO_mnist_3layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_3layers import draw_plot\n```\n\n```python\n\n\n```\n\n```python\ndef draw_plot(ary_path):\n    import matplotlib.pyplot as plt\n    ary = np.loadtxt(ary_path)\n    ary = ary[:, np.newaxis] if len(ary.shape) == 1 else ary\n    x_pts = [i for i in range(ary.shape[0])]\n    for i in range(ary.shape[1]):\n        y_pts = ary[:, i]\n        print(\"|min: %6.2f |max: %6.2f\" % (np.min(y_pts), np.max(y_pts)))\n        y_pts /= np.linalg.norm(y_pts)\n        plt.plot(x_pts, y_pts, linestyle='dashed', marker='x', markersize=3)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "Plan.TUTO_mnist_3layers",
+        "description": "Plan.TUTO_mnist_3layers",
+        "peekOfCode": "def run():\n    sess_para = init_session()\n    data_para = get_mnist_data(G.data_dir)\n    print('|Train_epoch: %d |batch: epoch*size\" %dx%d' % (G.train_epoch, G.batch_epoch, G.batch_size))\n    time0 = time.time()\n    train_session(sess_para, data_para, G.save_gap)\n    print('|Train_epoch: %d |batch: epoch*size\" %dx%d' % (G.train_epoch, G.batch_epoch, G.batch_size))\n    print(\"|TotalTime: %d\" % int(time.time() - time0))\n    eval_session(sess_para, data_para)\n    draw_plot(G.txt_path) if os.path.exists(G.txt_path) else print(\"|NotExist: \", G.txt_path)",
+        "detail": "Plan.TUTO_mnist_3layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_3layers import run\n```\n\n```python\n\n\n```\n\n```python\ndef run():\n    sess_para = init_session()\n    data_para = get_mnist_data(G.data_dir)\n    print('|Train_epoch: %d |batch: epoch*size\" %dx%d' % (G.train_epoch, G.batch_epoch, G.batch_size))\n    time0 = time.time()\n    train_session(sess_para, data_para, G.save_gap)\n    print('|Train_epoch: %d |batch: epoch*size\" %dx%d' % (G.train_epoch, G.batch_epoch, G.batch_size))\n    print(\"|TotalTime: %d\" % int(time.time() - time0))\n    eval_session(sess_para, data_para)\n    draw_plot(G.txt_path) if os.path.exists(G.txt_path) else print(\"|NotExist: \", G.txt_path)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os.environ[\"TF_CPP_MIN_LOG_LEVEL\"]",
+        "kind": 5,
+        "importPath": "Plan.TUTO_mnist_3layers",
+        "description": "Plan.TUTO_mnist_3layers",
+        "peekOfCode": "os.environ[\"TF_CPP_MIN_LOG_LEVEL\"] = '1'  # low the warning level\n\"\"\"\nSource: Aymeric Damien: cnn_mnist.py\n        https://github.com/aymericdamien/TensorFlow-Examples/\nModify: Yonv1943 2018-07-13 13:30:40\n2018-07-13 Stable, complete \n2018-07-13 Add TensorBoard GRAPHS HISTOGRAM\n2018-07-14 Add two dropout layer, lift accuracy to 99.8%>= in test_set\n2018-07-14 Remove accuracy from TensorFLow Calculate\n2018-07-14 Change to three layers network, not softmax ",
+        "detail": "Plan.TUTO_mnist_3layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_3layers import os.environ[\"TF_CPP_MIN_LOG_LEVEL\"]\n```\n\n```python\n\n\n```\n\n```python\nos.environ[\"TF_CPP_MIN_LOG_LEVEL\"] = '1'  # low the warning level\n\"\"\"\nSource: Aymeric Damien: cnn_mnist.py\n        https://github.com/aymericdamien/TensorFlow-Examples/\nModify: Yonv1943 2018-07-13 13:30:40\n2018-07-13 Stable, complete \n2018-07-13 Add TensorBoard GRAPHS HISTOGRAM\n2018-07-14 Add two dropout layer, lift accuracy to 99.8%>= in test_set\n2018-07-14 Remove accuracy from TensorFLow Calculate\n2018-07-14 Change to three layers network, not softmax \n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "G",
+        "kind": 5,
+        "importPath": "Plan.TUTO_mnist_3layers",
+        "description": "Plan.TUTO_mnist_3layers",
+        "peekOfCode": "G = Global()\ndef get_mnist_data(data_dir='MNIST_data'):\n    from tensorflow.examples.tutorials.mnist import input_data\n    mnist = input_data.read_data_sets(data_dir, one_hot=True)\n    train_image = mnist.train.images\n    train_label = mnist.train.labels\n    train_image = train_image[:G.batch_epoch * G.batch_size]\n    train_label = train_label[:G.batch_epoch * G.batch_size]\n    test_image = mnist.test.images\n    test_label = mnist.test.labels",
+        "detail": "Plan.TUTO_mnist_3layers",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTO_mnist_3layers import G\n```\n\n```python\n\n\n```\n\n```python\nG = Global()\ndef get_mnist_data(data_dir='MNIST_data'):\n    from tensorflow.examples.tutorials.mnist import input_data\n    mnist = input_data.read_data_sets(data_dir, one_hot=True)\n    train_image = mnist.train.images\n    train_label = mnist.train.labels\n    train_image = train_image[:G.batch_epoch * G.batch_size]\n    train_label = train_label[:G.batch_epoch * G.batch_size]\n    test_image = mnist.test.images\n    test_label = mnist.test.labels\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "func",
+        "kind": 2,
+        "importPath": "Plan.TUTR-multiprocessing",
+        "description": "Plan.TUTR-multiprocessing",
+        "peekOfCode": "def func(x):\n    print(\"||| Sleep time:\", x)\n    time.sleep(x)\n    print(\"|||\", __name__, os.getppid(), os.getpid())\n    return x ** 2\ndef foo(q):\n    q.put('hello')\ndef func_conn(conn):\n    conn.send([42, None])\n    conn.close()",
+        "detail": "Plan.TUTR-multiprocessing",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTR-multiprocessing import func\n```\n\n```python\n\n\n```\n\n```python\ndef func(x):\n    print(\"||| Sleep time:\", x)\n    time.sleep(x)\n    print(\"|||\", __name__, os.getppid(), os.getpid())\n    return x ** 2\ndef foo(q):\n    q.put('hello')\ndef func_conn(conn):\n    conn.send([42, None])\n    conn.close()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "foo",
+        "kind": 2,
+        "importPath": "Plan.TUTR-multiprocessing",
+        "description": "Plan.TUTR-multiprocessing",
+        "peekOfCode": "def foo(q):\n    q.put('hello')\ndef func_conn(conn):\n    conn.send([42, None])\n    conn.close()\ndef func_lock(l, i):\n    l.acquire()\n    try:\n        sleep_time = i * 5 % 3\n        time.sleep(sleep_time)",
+        "detail": "Plan.TUTR-multiprocessing",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTR-multiprocessing import foo\n```\n\n```python\n\n\n```\n\n```python\ndef foo(q):\n    q.put('hello')\ndef func_conn(conn):\n    conn.send([42, None])\n    conn.close()\ndef func_lock(l, i):\n    l.acquire()\n    try:\n        sleep_time = i * 5 % 3\n        time.sleep(sleep_time)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "func_conn",
+        "kind": 2,
+        "importPath": "Plan.TUTR-multiprocessing",
+        "description": "Plan.TUTR-multiprocessing",
+        "peekOfCode": "def func_conn(conn):\n    conn.send([42, None])\n    conn.close()\ndef func_lock(l, i):\n    l.acquire()\n    try:\n        sleep_time = i * 5 % 3\n        time.sleep(sleep_time)\n        print(\"|||\", i, sleep_time)\n    finally:",
+        "detail": "Plan.TUTR-multiprocessing",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTR-multiprocessing import func_conn\n```\n\n```python\n\n\n```\n\n```python\ndef func_conn(conn):\n    conn.send([42, None])\n    conn.close()\ndef func_lock(l, i):\n    l.acquire()\n    try:\n        sleep_time = i * 5 % 3\n        time.sleep(sleep_time)\n        print(\"|||\", i, sleep_time)\n    finally:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "func_lock",
+        "kind": 2,
+        "importPath": "Plan.TUTR-multiprocessing",
+        "description": "Plan.TUTR-multiprocessing",
+        "peekOfCode": "def func_lock(l, i):\n    l.acquire()\n    try:\n        sleep_time = i * 5 % 3\n        time.sleep(sleep_time)\n        print(\"|||\", i, sleep_time)\n    finally:\n        l.release()\n        pass\ndef func_memo(n, a):",
+        "detail": "Plan.TUTR-multiprocessing",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTR-multiprocessing import func_lock\n```\n\n```python\n\n\n```\n\n```python\ndef func_lock(l, i):\n    l.acquire()\n    try:\n        sleep_time = i * 5 % 3\n        time.sleep(sleep_time)\n        print(\"|||\", i, sleep_time)\n    finally:\n        l.release()\n        pass\ndef func_memo(n, a):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "func_memo",
+        "kind": 2,
+        "importPath": "Plan.TUTR-multiprocessing",
+        "description": "Plan.TUTR-multiprocessing",
+        "peekOfCode": "def func_memo(n, a):\n    n.value += 1\n    for i in range(len(a)):\n        a[i] = a[i] + 1\ndef func_mana(d, l):\n    d[1] = '1'\n    d['two'] = 2\n    d[0.25] = None\n    l.reverse()\ntimer = time.time()",
+        "detail": "Plan.TUTR-multiprocessing",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTR-multiprocessing import func_memo\n```\n\n```python\n\n\n```\n\n```python\ndef func_memo(n, a):\n    n.value += 1\n    for i in range(len(a)):\n        a[i] = a[i] + 1\ndef func_mana(d, l):\n    d[1] = '1'\n    d['two'] = 2\n    d[0.25] = None\n    l.reverse()\ntimer = time.time()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "func_mana",
+        "kind": 2,
+        "importPath": "Plan.TUTR-multiprocessing",
+        "description": "Plan.TUTR-multiprocessing",
+        "peekOfCode": "def func_mana(d, l):\n    d[1] = '1'\n    d['two'] = 2\n    d[0.25] = None\n    l.reverse()\ntimer = time.time()\nif __name__ == '__main__':\n    pass\n    # with Manager() as manager:\n    #     d = manager.dict()",
+        "detail": "Plan.TUTR-multiprocessing",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTR-multiprocessing import func_mana\n```\n\n```python\n\n\n```\n\n```python\ndef func_mana(d, l):\n    d[1] = '1'\n    d['two'] = 2\n    d[0.25] = None\n    l.reverse()\ntimer = time.time()\nif __name__ == '__main__':\n    pass\n    # with Manager() as manager:\n    #     d = manager.dict()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "timer",
+        "kind": 5,
+        "importPath": "Plan.TUTR-multiprocessing",
+        "description": "Plan.TUTR-multiprocessing",
+        "peekOfCode": "timer = time.time()\nif __name__ == '__main__':\n    pass\n    # with Manager() as manager:\n    #     d = manager.dict()\n    #     l = manager.list(range(8))\n    #\n    #     p = Process(target=func_mana, args=(d, l))\n    #     p.start()\n    #     p.join()",
+        "detail": "Plan.TUTR-multiprocessing",
+        "documentation": {
+            "value": "\n```python\nfrom Plan.TUTR-multiprocessing import timer\n```\n\n```python\n\n\n```\n\n```python\ntimer = time.time()\nif __name__ == '__main__':\n    pass\n    # with Manager() as manager:\n    #     d = manager.dict()\n    #     l = manager.list(range(8))\n    #\n    #     p = Process(target=func_mana, args=(d, l))\n    #     p.start()\n    #     p.join()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "beta",
+        "description": "beta",
+        "peekOfCode": "def run():\n    print('Hello, Python.')\n    print(\"Hi, Github\")",
+        "detail": "beta",
+        "documentation": {
+            "value": "\n```python\nfrom beta import run\n```\n\n```python\n\n\n```\n\n```python\ndef run():\n    print('Hello, Python.')\n    print(\"Hi, Github\")\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
